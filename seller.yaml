@@ -1,0 +1,103 @@
+# The seller the agent prospects for. The agent may state about the seller only the facts below.
+# Swap this file to point the same agent at another product.
+
+name: Concentrix iX Suite
+company: Concentrix
+summary: >-
+  AI products for customer experience operations: iX Hello (generative-AI platform for building
+  self-service assistants and agents) and iX Hero (agent desktop with an AI copilot, human in the loop).
+icp: >-
+  Enterprises with large customer support or contact-center operations (thousands of agents or
+  millions of customer interactions a year), often multilingual and multi-country, in technology and
+  consumer electronics, retail, travel and e-commerce, communications and media, banking, financial
+  services and insurance, or healthcare. Strong signals: growing support volume, hiring for support,
+  expansion into new markets or languages, a visible AI or CX transformation agenda, public complaints
+  about support quality.
+
+facts:
+  - text: Concentrix launched the iX Suite of AI products in September 2024.
+    source:
+      url: https://www.sec.gov/Archives/edgar/data/1803599/000180359926000027/cnxc-20251130.htm
+      title: Concentrix Form 10-K, fiscal 2025
+  - text: iX Hello is a generative-AI platform for building self-service assistants and agents.
+    source:
+      url: https://www.sec.gov/Archives/edgar/data/1803599/000180359926000027/cnxc-20251130.htm
+      title: Concentrix Form 10-K, fiscal 2025
+  - text: Since September 2025 iX Hello is the agent-building platform inside Concentrix's Agentic Operating Framework, which targets the issues behind failed enterprise AI deployments.
+    source:
+      url: https://www.globenewswire.com/news-release/2025/09/18/3152486/0/en/Concentrix-Launches-Agentic-Operating-Framework-to-Help-Enterprises-Solve-Key-Issues-Behind-Failed-AI-Deployments.html
+      title: Concentrix Launches Agentic Operating Framework (GlobeNewswire, 18 Sep 2025)
+      published: "2025-09-18"
+  - text: iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training.
+    source:
+      url: https://www.concentrix.com/ix-hero/
+      title: iX Hero product page
+  - text: iX Hero won TMC's 2026 Customer Product of the Year award.
+    source:
+      url: https://www.concentrix.com/about/news/concentrix-ix-hero-wins-tmc-2026-customer-product-year/
+      title: Concentrix iX Hero wins TMC 2026 Customer Product of the Year
+  - text: Concentrix rolled out pre-built agentic AI agents for product support, order status, appointment scheduling and collections in December 2025.
+    source:
+      url: https://www.concentrix.com/about/news/press-release/concentrix-rolls-out-pre-built-agentic-ai-for-instant-business-impact/
+      title: Concentrix rolls out pre-built agentic AI for instant business impact
+      published: "2025-12-22"
+  - text: Concentrix closed nearly 100 iX deals in Q2 fiscal 2026, up 400% year over year.
+    source:
+      url: https://www.sec.gov/Archives/edgar/data/0001803599/000180359926000133/exhibit991q22026.htm
+      title: Concentrix Q2 fiscal 2026 results (8-K exhibit 99.1)
+  - text: Concentrix serves more than 2,000 clients, including more than 160 of the Fortune Global 500.
+    source:
+      url: https://www.sec.gov/Archives/edgar/data/1803599/000180359926000027/cnxc-20251130.htm
+      title: Concentrix Form 10-K, fiscal 2025
+
+# Commercial offers the sales team stands behind. A seller decision, not public data: edit before real use.
+# Drafts may propose only these.
+offers:
+  - a 20-minute demo on one of the prospect's own scenarios
+  - a pilot on one queue or one market
+
+# Last-resort drafts, used only if every written attempt fails the checks. Built only from the facts above,
+# the prospect's first name and company name, and the offers. {first_name} and {company} are filled in.
+fallback:
+  linkedin_note: >-
+    Hi {first_name}, I'm [Your name] from Concentrix. We run customer experience for more than 2,000 clients and build
+    AI tools for contact-centre teams. Would be glad to connect and show you a short demo on one of {company}'s own scenarios.
+  email_subject: "{company} customer care and AI"
+  email_body: |-
+    Hi {first_name},
+
+    I'm [Your name] from Concentrix. We run customer experience for more than 2,000 clients, including more than 160 of the Fortune Global 500, and build AI for that work.
+
+    Our iX Hero sits on the agent's desktop and gives real-time answers, summaries and training, with a human in the loop. It won TMC's 2026 Customer Product of the Year.
+
+    Happy to show you a 20-minute demo on one of {company}'s own scenarios. Does next week work?
+
+    Best,
+    [Your name]
+
+# Buying roles follow the case brief: economic buyers, decision-makers, champions.
+roles:
+  economic_buyer:
+    label: economic buyer, owns the customer service budget
+    titles: [VP Customer Service, SVP Customer Care, Director of Customer Operations, Head of Contact Centre, Chief Customer Officer]
+    pain: >-
+      Owns the cost and quality of customer care: support volume and cost per contact keep growing
+      while customer expectations rise, and AI pilots have not yet shown impact at scale.
+  decision_maker:
+    label: decision-maker, decides which customer service software and AI the company buys
+    titles: [Chief Information Officer, Head of Contact Centre Technology, Head of CX Technology, Head of Digital Self-Service, Head of Conversational AI, Head of Conversational Banking, Head of Chatbots and AI, Head of Digital Automation]
+    pain: >-
+      Has to make AI fit the existing CRM and contact-center stack safely: integration effort, data
+      security, governance of generative AI, and avoiding another failed AI deployment.
+    hints:
+      - If the company runs its own AI assistant or chatbot for customers, look first for the owner of that AI program.
+      - If the company is moving to a cloud contact-center platform, has an AI risk or governance committee, or is in a regulated industry (banking, insurance, healthcare), look first for the CIO.
+  champion:
+    label: champion, runs customer support day to day and pushes the change internally
+    titles: [Director of Customer Service Operations, Head of Customer Service Operations, Head of Contact Centre Operations, Head of Customer Care Partner Management, Customer Service Vendor Manager]
+    pain: >-
+      Runs the support floor or the outsourcing partners: agent ramp-up time, handle time, quality across
+      languages and sites, and pressure to automate without hurting satisfaction scores.
+    hints:
+      - Look first for the director of customer service operations.
+      - Take the person who manages outsourcing partners only if support is outsourced to several BPO partners; then say in why that this is the entry point for an AI-plus-people offer.

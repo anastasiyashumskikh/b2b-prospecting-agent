@@ -1,0 +1,903 @@
+{
+  "started_at": "2026-10-18 22:32",
+  "seller": "Concentrix iX Suite",
+  "summary": {
+    "companies": 6,
+    "processed": 3,
+    "needs_decision": 3,
+    "failed": 0,
+    "not_found": 0,
+    "contacts": 5,
+    "contacts_high": 4,
+    "drafts_by_basis": {
+      "personal": 5,
+      "company": 0,
+      "role": 0
+    },
+    "passed_first_try": 4,
+    "duration_s": 994.4086471250048,
+    "cost_usd": 5.928256300000001,
+    "searches": 146
+  },
+  "companies": [
+    {
+      "input_name": "Zalando",
+      "status": "done",
+      "reason": null,
+      "profile": {
+        "input_name": "Zalando",
+        "resolved_name": "Zalando SE",
+        "domain": "zalando.com",
+        "fit": "strong",
+        "fit_reason": "Zalando is Europe's largest online fashion and lifestyle e-commerce platform. It has 62.5M active customers across 29 markets and runs multilingual customer care that is largely outsourced: according to Teleperformance's case study, TP has run Zalando's phone, chat, email and social support since 2011 from 13+ countries. Recent signals show an active AI/CX agenda: its Assistant was tightened into customer care, and Parloa says it will run Zalando's AI customer conversations across Europe. Note that agent headcount comes only from vendor and recruiter material.",
+        "fit_sources": [
+          {
+            "url": "https://corporate.zalando.com/en/financials/zalando-q2-2026-results",
+            "title": "Zalando delivers another quarter of profitable growth in Q2, accelerates B2B expansion and continues innovating through AI",
+            "published": "2026-08-04",
+            "opened": true
+          },
+          {
+            "url": "https://www.tp.com/media/ixflv4ar/zalando-case-study-innovative-multilingual-buyer-support.pdf",
+            "title": "Zalando case study: innovative multilingual buyer support (TP)",
+            "published": null,
+            "opened": false
+          },
+          {
+            "url": "https://www.multilingualvacancies.com/jobs/228485/danish-speaking-customer-support-agent-for-zalando-in--nordic-jobs-worldwide",
+            "title": "Danish speaking customer support agent for Zalando",
+            "published": null,
+            "opened": false
+          }
+        ],
+        "signals": [
+          {
+            "text": "Parloa's CEO said on LinkedIn that Zalando will use Parloa's AI for customer conversations across Europe. Zalando has not confirmed this and gave no scope or timing, so a competing AI-CX vendor may already be in place.",
+            "source": {
+              "url": "https://thenextweb.com/news/parloa-zalando-ai-conversations",
+              "title": "Parloa says it is partnering with Zalando on AI customer conversations",
+              "published": "2026-09-22",
+              "opened": true
+            }
+          },
+          {
+            "text": "In its Q2 2026 results Zalando said its Assistant has become a 'proactive lifestyle companion', now more tightly integrated with customer care, and that high-value interactions rose 63% between January and June. Active customers reached 62.5M across 29 markets.",
+            "source": {
+              "url": "https://corporate.zalando.com/en/financials/zalando-q2-2026-results",
+              "title": "Zalando delivers another quarter of profitable growth in Q2, accelerates B2B expansion and continues innovating through AI",
+              "published": "2026-08-04",
+              "opened": true
+            }
+          },
+          {
+            "text": "In its Q1 2026 results Zalando said close to 10 million customers had already asked the Zalando Assistant for advice in 2026, up from 6 million in all of 2025, and that the Assistant now covers beauty as well; it also credited AI with driving growth and efficiencies.",
+            "source": {
+              "url": "https://corporate.zalando.com/en/financials/zalando-q1-2026-results",
+              "title": "Zalando delivers strong Q1 as artificial intelligence and ABOUT YOU integration drive growth and efficiencies",
+              "published": "2026-05-06",
+              "opened": true
+            }
+          }
+        ]
+      },
+      "unconfirmed": [],
+      "role_notes": {
+        "economic_buyer": "only weak matches found: Lisa Miczaika (Senior Vice President Markets (formerly VP Customer Satisfaction), relevance 2)",
+        "champion": "not found for this role"
+      },
+      "alternates": {
+        "decision_maker": [
+          {
+            "name": "Graeme Smith",
+            "title": "Senior Vice President Engineering and Science",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://www.textilwirtschaft.de/tech/agentic-commerce-so-sieht-zalando-die-zukunft-von-shopping-assistenten-159184"
+          },
+          {
+            "name": "Tian Su",
+            "title": "VP Personalisation & Recommendation",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://corporate.zalando.com/en/node/10501"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "contact": {
+            "name": "Thomas Kugel",
+            "title": "Director of Customer Experience Management",
+            "company": "Zalando SE",
+            "buying_role": "decision_maker",
+            "seniority": "director",
+            "relevance": 4,
+            "relevance_reason": "He leads a CX team inside the Customer Service function. No public statement from him about AI or contact-center software was found.",
+            "why": "He sits in customer service, where the Q2 2026 results say the Assistant is now more tightly integrated with care. That makes him a likely owner or evaluator of agent-side tools like iX Hero.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://cxnetwork.com/events-customer-experience-exchange-retail-europe/speakers/thomas-kugel",
+                "title": "Thomas Kugel – CX Retail Exchange Europe speaker (CX Network)",
+                "published": null,
+                "opened": false
+              },
+              {
+                "url": "https://impactic.de/cxconference2025/speaker/page/9/",
+                "title": "CX Conference Berlin 2025 – Speakers (page 9): Thomas Kugel, Director Customer Experience Management at Zalando",
+                "published": "2025",
+                "opened": true
+              },
+              {
+                "url": "https://impactic.de/cxconference2024/speaker/thomas-kugel/",
+                "title": "CX Conference 2024 – Thomas Kugel, Director Customer Experience Management at Zalando; talk 4 June 2024 'Removing Defects from Customer Journeys'",
+                "published": "2024-06-04",
+                "opened": true
+              },
+              {
+                "url": "https://www.linkedin.com/in/thomas-kugel-0467b64a/",
+                "title": "Thomas Kugel - Zalando (LinkedIn, seen in search results only; undated)",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "medium",
+            "linkedin_status": "not_found",
+            "role_evidence": "Director Customer Experience Management: impactic.de (2025)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Thomas Kugel is listed as a speaker at Impactic's CX Conference 2025, with the title Director Customer Experience Management at Zalando.",
+                "source": {
+                  "url": "https://impactic.de/cxconference2025/speaker/page/9/",
+                  "title": "CX Conference 2025 – Speakers (page 9)",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "Zalando's Q2 2026 release says new Zalando Assistant releases added deeper customer care integration, along with web search and visual discovery.",
+                "source": {
+                  "url": "https://app.boersengefluester.de/en/newswire/DE000ZAL1111/zalando-se/zalando-delivers-another-quarter-of-profitable-growth-in-q2-accelerates-b2b-expansion-and-continues-innovating-through-ai-2376590",
+                  "title": "Zalando delivers another quarter of profitable growth in Q2, accelerates B2B expansion and continues innovating through AI",
+                  "published": "2026-08-04",
+                  "opened": true
+                }
+              },
+              {
+                "text": "In the same release, CEO Robert Gentz says Zalando's fast-scaling AI capabilities already deliver measurable benefits, and active customers reached a record 62.5 million, up 18.3%.",
+                "source": {
+                  "url": "https://app.boersengefluester.de/en/newswire/DE000ZAL1111/zalando-se/zalando-delivers-another-quarter-of-profitable-growth-in-q2-accelerates-b2b-expansion-and-continues-innovating-through-ai-2376590",
+                  "title": "Zalando delivers another quarter of profitable growth in Q2, accelerates B2B expansion and continues innovating through AI",
+                  "published": "2026-08-04",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Parloa's About page names Zalando, alongside Allianz, Booking.com and IKEA, among the global brands it helps improve service, loyalty and revenue.",
+                "source": {
+                  "url": "https://www.parloa.com/company/about/",
+                  "title": "Parloa – About",
+                  "published": null,
+                  "opened": true
+                }
+              }
+            ],
+            "pain": null,
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Thomas, I'm [Your name] from Concentrix. Zalando's Q2 2026 results say the Assistant is now more tightly integrated with customer care. We offer an agentic desktop for contact-center agents with a human in the loop. Open to a 20-minute demo on one of your scenarios?",
+            "email_subject": "Assistant and customer care",
+            "email_body": "Hi Thomas,\n\nI'm [Your name] from Concentrix.\n\nIn its Q2 2026 results, Zalando said the Assistant is now more tightly integrated with customer care, and that high-value interactions rose 63% between January and June. Nice result.\n\nHow does your team decide what the Assistant handles and what goes to a human agent?\n\nOur iX Hero is an agentic desktop for contact-center agents with a human in the loop. It gives real-time answers, summaries, analytics and training. I think it could be useful for your team.\n\nWould a 20-minute demo on one of your own care scenarios work? Is next Tuesday or Thursday good for you?\n\nBest,\n[Your name]",
+            "hooks": [
+              "In its Q2 2026 results Zalando said its Assistant has become a 'proactive lifestyle companion', now more tightly integrated with customer care, and that high-value interactions rose 63% between January and June. Active customers reached 62.5M across 29 markets."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 2,
+            "fixed": [
+              "unsupported claim: \"Since September 2025, our Agentic Operating Framework has targeted the issues behind failed enterprise AI deployments\" changes what the fact says. The fact says that since September 2025, iX Hello has been the agent-building platform inside the Agentic Operating Framework, and that the framework targets those issues. It gives no start date for the framework's targeting. Placed right after the iX Hero paragraph, the sentence also suggests a link to iX Hero that the facts don't state."
+            ],
+            "judge_reason": "Both drafts name Zalando and cite its Q2 2026 results: the Assistant is now more tightly integrated with customer care, and high-value interactions rose 63% between January and June. That content only applies to Thomas Kugel at Zalando, so the text could not go to someone else unchanged."
+          }
+        }
+      ]
+    },
+    {
+      "input_name": "Mercury",
+      "status": "needs_decision",
+      "reason": "Ambiguous name, could be: Mercury (mercury.com): US fintech that provides banking for startups and small businesses, based in San Francisco; Mercury Insurance (mercuryinsurance.com): US auto and home insurer; Mercury Systems (mrcy.com): US defense and aerospace electronics, Andover, MA; Mercury Marine (mercurymarine.com): maker of boat engines, a division of Brunswick; Mercury Financial (mercuryfinancial.com): US credit card issuer; Mercury Corporation: South Korean maker of network and broadband equipment",
+      "profile": null,
+      "unconfirmed": [],
+      "role_notes": {},
+      "alternates": {},
+      "contacts": []
+    },
+    {
+      "input_name": "Klarnaa",
+      "status": "done",
+      "reason": null,
+      "profile": {
+        "input_name": "Klarnaa",
+        "resolved_name": "Klarna (Klarna Group plc)",
+        "domain": "klarna.com",
+        "fit": "strong",
+        "fit_reason": "Klarna is a buy-now-pay-later payments company operating in 26 markets with 120 million active consumers. Its AI assistant alone does the work of more than 853 full-time agents, and it has handled millions of customer conversations, so it has a very large multilingual support operation in financial services. It also has an active AI/CX agenda: the company has gone back to human 'VIP' support after quality criticism, and its customer service costs are rising.",
+        "fit_sources": [
+          {
+            "url": "https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-Reports-Second-Quarter-2026-Results/default.aspx",
+            "title": "Klarna Reports Second Quarter 2026 Results",
+            "published": "2026-08-18",
+            "opened": true
+          },
+          {
+            "url": "https://www.customerexperiencedive.com/news/klarna-says-ai-agent-work-853-employees/805987/",
+            "title": "Klarna says AI agent does the work of 853 employees",
+            "published": "2025-11-20",
+            "opened": true
+          },
+          {
+            "url": "https://www.aol.com/articles/klarna-klar-q2-2026-earnings-161311000.html",
+            "title": "Klarna (KLAR) Q2 2026 Earnings Call Transcript",
+            "published": "2026-08-25",
+            "opened": true
+          }
+        ],
+        "signals": [
+          {
+            "text": "On the Q3 2025 results, CEO Sebastian Siemiatkowski said Klarna's AI customer service agent now does the work of more than 853 full-time agents and has saved about $60M. Forrester said Klarna had 'overpivoted' toward cost, customers complained about generic answers, and Klarna has started hiring human agents again.",
+            "source": {
+              "url": "https://www.customerexperiencedive.com/news/klarna-says-ai-agent-work-853-employees/805987/",
+              "title": "Klarna says AI agent does the work of 853 employees (CX Dive)",
+              "published": "2025-11-20",
+              "opened": true
+            }
+          },
+          {
+            "text": "Siemiatkowski said Klarna plans to rely less on outsourced customer service. It is moving to an 'Uber-style' model where its own customers work as part-time agents, AI handles simple questions, and human support is offered as a premium 'VIP' experience.",
+            "source": {
+              "url": "https://www.customerexperiencedive.com/news/klarna-pursues-uber-style-customer-service-model/812763/",
+              "title": "Klarna pursues 'Uber' style customer service model (CX Dive)",
+              "published": "2026-02-20",
+              "opened": true
+            }
+          },
+          {
+            "text": "Klarna's Q2 2026 results show 120M active consumers (up 8% year over year) and merchants up 54%. Customer service and operations costs rose to $58M from $51M a year earlier.",
+            "source": {
+              "url": "https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-Reports-Second-Quarter-2026-Results/default.aspx",
+              "title": "Klarna Reports Second Quarter 2026 Results",
+              "published": "2026-08-18",
+              "opened": true
+            }
+          }
+        ]
+      },
+      "unconfirmed": [],
+      "role_notes": {
+        "champion": "not found for this role"
+      },
+      "alternates": {
+        "economic_buyer": [],
+        "decision_maker": [
+          {
+            "name": "Yaron Shaer",
+            "title": "Chief Technology Officer",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://investors.klarna.com/governance/leadership/default.aspx"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "contact": {
+            "name": "Sebastian Siemiatkowski",
+            "title": "CEO and Co-founder",
+            "company": "Klarna (Klarna Group plc)",
+            "buying_role": "economic_buyer",
+            "seniority": "c_level",
+            "relevance": 4,
+            "relevance_reason": "He publicly owns and speaks for Klarna's customer service strategy: the AI assistant, rehiring humans, the Uber-style agent model and outsourcing cuts. He is CEO, not a dedicated customer service budget owner, and public sources name no customer service leader below him.",
+            "why": "He announced the AI agent doing the work of 853 agents and $60M saved, then the move to less outsourcing with human support as a premium 'VIP' experience. Customer service and operations costs still rose to $58M from $51M, so the decision on how to balance AI and human support sits with him.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://investors.klarna.com/governance/leadership/default.aspx",
+                "title": "Klarna Group plc - Governance - Leadership",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://www.customerexperiencedive.com/news/klarna-pursues-uber-style-customer-service-model/812763/",
+                "title": "Klarna pursues 'Uber' style customer service model",
+                "published": "2026-02-20",
+                "opened": true
+              },
+              {
+                "url": "https://www.customerexperiencedive.com/news/klarna-says-ai-agent-work-853-employees/805987/",
+                "title": "Klarna says its AI agent is doing the work of 853 employees",
+                "published": null,
+                "opened": false
+              },
+              {
+                "url": "https://www.01net.it/klarna-ceo-sebastian-siemiatkowski-acquires-692506-shares-for-10-million/",
+                "title": "Klarna CEO Sebastian Siemiatkowski Acquires 692,506 Shares for $10 Million",
+                "published": "2026-08-28",
+                "opened": true
+              },
+              {
+                "url": "https://s205.q4cdn.com/644747736/files/doc_news/Klarna-CEO-Sebastian-Siemiatkowski-Acquires-692506-Shares-for-10-Million-2026.pdf",
+                "title": "Klarna CEO Sebastian Siemiatkowski Acquires 692506 Shares for 10 Million (Klarna IR PDF)",
+                "published": "2026-08-28",
+                "opened": true
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "CEO and Co-founder: 01net.it (2026-08-28)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "On the 20VC podcast, Siemiatkowski said Klarna invites enthusiastic customers to work part-time in customer service, and admitted, \"Internally, we've focused too much on cost.\"",
+                "source": {
+                  "url": "https://cxfoundation.com/news/klarna-recruits-customers-as-service-reps",
+                  "title": "Klarna recruits customers as service reps",
+                  "published": "2026-02-17",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Siemiatkowski backs a two-tier model where AI handles basic service and humans deliver VIP experiences, saying \"Everyone who wants a human connection should get it.\"",
+                "source": {
+                  "url": "https://cxfoundation.com/news/klarna-recruits-customers-as-service-reps",
+                  "title": "Klarna recruits customers as service reps",
+                  "published": "2026-02-17",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Siemiatkowski said Klarna cut outsourcing and left attrition roles unfilled rather than laying staff off, and expects headcount to fall from over 3,000 to under 2,000 by 2030.",
+                "source": {
+                  "url": "https://cxfoundation.com/news/klarna-recruits-customers-as-service-reps",
+                  "title": "Klarna recruits customers as service reps",
+                  "published": "2026-02-17",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Klarna's Q2 2026 results report about 120 million active consumers (up 8%) and more than 1.2 million merchants (up 54%) year over year.",
+                "source": {
+                  "url": "https://www.financialcontent.com/article/bizwire-2026-8-18-klarna-reports-second-quarter-2026-results",
+                  "title": "Klarna Reports Second Quarter 2026 Results",
+                  "published": "2026-08-18",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "Even with AI handling basic support, Klarna's customer service and operations costs rose to $58M in Q2 2026 from $51M a year earlier.",
+              "source": {
+                "url": "https://www.financialcontent.com/article/bizwire-2026-8-18-klarna-reports-second-quarter-2026-results",
+                "title": "Klarna Reports Second Quarter 2026 Results",
+                "published": "2026-08-18",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Sebastian, I'm [Your name] from Concentrix. With Klarna's Q3 2025 results you said your AI agent does the work of 853+ full-time agents. Our iX Hero is an agentic desktop for contact-center agents, with a human in the loop. Open to a 20-min demo on one of your scenarios?",
+            "email_subject": "AI and human support at Klarna",
+            "email_body": "Hi Sebastian,\n\nI'm [Your name] from Concentrix.\n\nWith Klarna's Q3 2025 results, you said the AI customer service agent does the work of more than 853 full-time agents and has saved about $60M. Big result.\n\nYou also back a two-tier model where AI handles basic service and humans deliver VIP experiences. How do you decide which customers get the human tier?\n\nOur iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training. I think it could fit the human side of that model.\n\nDo you have 20 minutes next Tuesday or Thursday for a demo on one of your own scenarios?\n\nBest,\n[Your name]",
+            "hooks": [
+              "On the Q3 2025 results, CEO Sebastian Siemiatkowski said Klarna's AI customer service agent now does the work of more than 853 full-time agents and has saved about $60M. Forrester said Klarna had 'overpivoted' toward cost, customers complained about generic answers, and Klarna has started hiring human agents again.",
+              "Siemiatkowski backs a two-tier model where AI handles basic service and humans deliver VIP experiences, saying \"Everyone who wants a human connection should get it.\""
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts are tied to Sebastian Siemiatkowski and Klarna. They cite his Q3 2025 statement that the AI agent does the work of more than 853 full-time agents and saved about $60M, and his two-tier model where AI handles basic service and humans deliver VIP experiences. You couldn't send them to another person at another company without changing them."
+          }
+        },
+        {
+          "contact": {
+            "name": "David Fock",
+            "title": "Chief Product and Design Officer",
+            "company": "Klarna Group plc",
+            "buying_role": "decision_maker",
+            "seniority": "c_level",
+            "relevance": 4,
+            "relevance_reason": "Product owns Klarna's in-house AI assistant. His public LinkedIn post reported the assistant's first-month customer-service results (seen only as a search snippet, date not shown).",
+            "why": "The AI assistant does the work of more than 853 agents, but customers complained about generic answers. As product chief he would decide whether to add a human-in-the-loop copilot (iX Hero) or more self-service tooling (iX Hello) as Klarna moves to its hybrid 'VIP human' model.",
+            "linkedin_url": "https://se.linkedin.com/in/davidfock",
+            "sources": [
+              {
+                "url": "https://investors.klarna.com/governance/leadership/default.aspx",
+                "title": "Klarna Group plc - Governance - Leadership",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://secure.businesswire.com/news/home/20260313983414/en/Klarna-Board-Chair-Michael-Moritz-Acquires-3.47-Million-Shares-for-%2450-Million",
+                "title": "Business Wire: Klarna insider share purchases (names Fock as Chief Product & Design Officer)",
+                "published": "2026-03-13",
+                "opened": false
+              },
+              {
+                "url": "https://se.linkedin.com/in/davidfock",
+                "title": "David Fock LinkedIn post on Klarna AI assistant handling two-thirds of customer service chats",
+                "published": null,
+                "opened": false
+              },
+              {
+                "url": "https://www.businesswire.com/news/home/20260313242025/nl",
+                "title": "Business Wire – Klarna Form 3 filings release (Fock purchased 27,000 shares on 2026-03-09)",
+                "published": "2026-03-13",
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "matched",
+            "role_evidence": "Chief Product and Design Officer: secure.businesswire.com (2026-03-13)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "David Fock, Klarna's Chief Product & Design Officer, bought 27,000 Klarna ordinary shares on March 9, 2026, for about $388,552.",
+                "source": {
+                  "url": "https://via.tt.se/pressmeddelande/4285145/klarna-board-chair-michael-moritz-acquires-347-million-shares-for-dollar50-million",
+                  "title": "Klarna Board Chair Michael Moritz Acquires 3.47 Million Shares for $50 Million",
+                  "published": "2026-03-13",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Klarna's Q2 2026 results report 120 million active consumers, up 8% year over year, and more than 1.2 million merchants, up 54%.",
+                "source": {
+                  "url": "https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-Reports-Second-Quarter-2026-Results/default.aspx",
+                  "title": "Klarna Reports Second Quarter 2026 Results",
+                  "published": "2026-08-18",
+                  "opened": true
+                }
+              },
+              {
+                "text": "The Q2 2026 release says Klarna launched cashback Membership plans, went live with J.P. Morgan Payments, announced Apple Upgrade leasing, and plans significant PSP launches in Q3.",
+                "source": {
+                  "url": "https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-Reports-Second-Quarter-2026-Results/default.aspx",
+                  "title": "Klarna Reports Second Quarter 2026 Results",
+                  "published": "2026-08-18",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Siemiatkowski said AI handles simple tasks like payment status while skilled humans solve complex problems, and customers should know a human is always available.",
+                "source": {
+                  "url": "https://cxtoday.com/klarnas-ai-merry-go-round-enough-to-put-anyones-head-in-a-spin",
+                  "title": "Klarna's AI Merry-Go-Round Enough to Put Anyone's Head in a Spin",
+                  "published": "2025-05-20",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "Even with its AI assistant, Klarna's customer service and operations costs rose to $58M in Q2 2026 from $51M, so the AI-plus-human support mix still isn't cost-efficient.",
+              "source": {
+                "url": "https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-Reports-Second-Quarter-2026-Results/default.aspx",
+                "title": "Klarna Reports Second Quarter 2026 Results",
+                "published": "2026-08-18",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi David, I'm [Your name] from Concentrix. Klarna's Q2 2026 results show customer service and operations costs rose to $58M from $51M a year earlier. Our iX Hero is an agentic desktop for contact-center agents with a human in the loop. Open to a 20-minute demo on one of your scenarios?",
+            "email_subject": "Klarna's service costs in Q2",
+            "email_body": "Hi David,\n\nI'm [Your name] from Concentrix. Klarna's Q2 2026 results show 120M active consumers, up 8% year over year, and customer service and operations costs of $58M, up from $51M a year earlier.\n\nThat's solid growth. How are you deciding where AI should sit in your current support setup, and how do you keep it governed?\n\nConcentrix's iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training. It won TMC's 2026 Customer Product of the Year award. I think it could be useful for your team.\n\nWould a 20-minute demo on one of your own scenarios help? Does Thursday or Friday next week work for you?\n\nBest,\n[Your name]",
+            "hooks": [
+              "Klarna's Q2 2026 results show 120M active consumers (up 8% year over year) and merchants up 54%. Customer service and operations costs rose to $58M from $51M a year earlier."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training.",
+              "iX Hero won TMC's 2026 Customer Product of the Year award."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts use Klarna-specific figures from the Q2 2026 results: 120M active consumers, up 8% year over year, and customer service and operations costs rising to $58M from $51M. They are addressed to David by name. Neither draft could go to another person at another company unchanged."
+          }
+        }
+      ]
+    },
+    {
+      "input_name": "Holded",
+      "status": "needs_decision",
+      "reason": "Weak fit: Holded is a small company in Barcelona that makes cloud ERP and accounting software for SMBs and freelancers. It has roughly 100–150 employees per its 2021 acquisition coverage, is owned by Visma, and serves about 80,000 customers, mostly in Spain. That is far below the profile's threshold, and nothing public points to a large, multi-country contact-center operation.",
+      "profile": {
+        "input_name": "Holded",
+        "resolved_name": "Holded (Holded Technologies, part of Visma)",
+        "domain": "holded.com",
+        "fit": "weak",
+        "fit_reason": "Holded is a small company in Barcelona that makes cloud ERP and accounting software for SMBs and freelancers. It has roughly 100–150 employees per its 2021 acquisition coverage, is owned by Visma, and serves about 80,000 customers, mostly in Spain. That is far below the profile's threshold, and nothing public points to a large, multi-country contact-center operation.",
+        "fit_sources": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Holded",
+            "title": "Holded - Wikipedia",
+            "published": null,
+            "opened": true
+          },
+          {
+            "url": "https://pricingsaas.com/companies/holded",
+            "title": "Holded Pricing Plans & History (2026) — PricingSaaS",
+            "published": null,
+            "opened": false
+          }
+        ],
+        "signals": []
+      },
+      "unconfirmed": [],
+      "role_notes": {},
+      "alternates": {},
+      "contacts": []
+    },
+    {
+      "input_name": "Mercadona",
+      "status": "done",
+      "reason": null,
+      "profile": {
+        "input_name": "Mercadona",
+        "resolved_name": "Mercadona, S.A.",
+        "domain": "mercadona.es",
+        "fit": "partial",
+        "fit_reason": "Mercadona is a large Spanish supermarket chain (retail, which is in the profile) that also runs stores in Portugal. Its customer service handles about 1 million queries a year across phone, email/WhatsApp and social media, plus a growing WhatsApp AI assistant. That volume is modest next to the profile's 'millions of interactions', no agent headcount is public, and the service is almost entirely in-house in Spanish and Portuguese, so support scale is only partly confirmed.",
+        "fit_sources": [
+          {
+            "url": "https://www.consumidorglobal.com/alimentacion/consulta-mas-repetida-clientes-mercadona-suma-miles-llamadas-mensajes_16434_102.html",
+            "title": "La consulta más repetida de los clientes de Mercadona: suma miles de llamadas y mensajes - Consumidor Global",
+            "published": "2025-09-18",
+            "opened": true
+          },
+          {
+            "url": "https://theobjective.com/economia/2026-03-14/carol-empleada-virtual-mercadona-atencion-digital/",
+            "title": "Carol, la empleada virtual de Mercadona - The Objective",
+            "published": "2026-03-14",
+            "opened": true
+          },
+          {
+            "url": "https://info.mercadona.es/en/customer-service",
+            "title": "Atención al Cliente de Mercadona - Mercadona",
+            "published": null,
+            "opened": false
+          }
+        ],
+        "signals": [
+          {
+            "text": "Mercadona's WhatsApp AI assistant 'Carol' nearly doubled its volume to about 180,500 conversations in 2025 (from about 96,000 in 2024), and the company is building AI into customer communication while also reinforcing its human support team.",
+            "source": {
+              "url": "https://theobjective.com/economia/2026-03-14/carol-empleada-virtual-mercadona-atencion-digital/",
+              "title": "Carol, la empleada virtual de Mercadona - The Objective",
+              "published": "2026-03-14",
+              "opened": true
+            }
+          },
+          {
+            "text": "Mercadona is expanding in Portugal: it entered the Beja and Vila Real districts in September 2026, plans about €150M of investment there in 2026, and is lining up further openings including the Faro district.",
+            "source": {
+              "url": "https://www.merca2.es/2026/08/15/mercadona-portugal-expansion-nuevos-distritos-2436468/",
+              "title": "Mercadona acelera su expansión en Portugal y abrirá en dos nuevos distritos en septiembre - Merca2",
+              "published": "2026-08-15",
+              "opened": true
+            }
+          },
+          {
+            "text": "Mercadona IT launched 'Atenea', its own agentic AI platform for software development, now used by more than 500 engineers, which shows an active in-house AI agenda (for now aimed at internal processes rather than customers).",
+            "source": {
+              "url": "https://www.elconfidencialdigital.com/articulo/mercadona/mercadona-crea-propia-inteligencia-artificial-mas-500-ingenieros-trabajan-ella/202610021013591490083.html",
+              "title": "Mercadona crea su propia inteligencia artificial: más de 500 ingenieros ya trabajan con ella - El Confidencial Digital",
+              "published": "2026-10-02",
+              "opened": true
+            }
+          }
+        ]
+      },
+      "unconfirmed": [],
+      "role_notes": {
+        "champion": "not found for this role"
+      },
+      "alternates": {
+        "economic_buyer": [],
+        "decision_maker": []
+      },
+      "contacts": [
+        {
+          "contact": {
+            "name": "Patricia Tobía",
+            "title": "Directora General de Informática (also responsible for finance since June 2026)",
+            "company": "Mercadona, S.A.",
+            "buying_role": "economic_buyer",
+            "seniority": "c_level",
+            "relevance": 3,
+            "relevance_reason": "Runs IT and now finance, which is adjacent to AI in customer experience; no public link to customer support.",
+            "why": "IT is the team behind Mercadona's in-house AI work (the 'Atenea' platform for its engineers), and she now holds finance too. That makes her a likely budget approver for an AI customer-service platform, and she may push to build it in-house rather than buy.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.alimarket.es/alimentacion/noticia_amp/428485/mercadona-anuncia-la-salida-de-hector-hernandez--director-financiero",
+                "title": "Mercadona anuncia la salida de Héctor Hernández, director financiero (Alimarket)",
+                "published": "2026-06-29",
+                "opened": true
+              },
+              {
+                "url": "https://www.articulo14.es/economia/quienes-son-las-dos-altas-directivas-que-forman-parte-del-comite-de-direccion-de-mercadona-20250105.html",
+                "title": "¿Quiénes son las dos altas directivas que forman parte del Comité de Dirección de Mercadona? (Artículo 14)",
+                "published": "2025-01-05",
+                "opened": false
+              },
+              {
+                "url": "https://forbes.es/empresas/604778/mercadona-refuerza-su-apuesta-por-la-excelencia-digital-con-una-inversion-de-250-millones-de-euros/",
+                "title": "Mercadona refuerza su apuesta por la excelencia digital con una inversión de 250 millones de euros",
+                "published": "2025-01-31",
+                "opened": true
+              },
+              {
+                "url": "https://americaretail-malls.com/paises/espana/terremoto-en-mercadona-juan-roig-renueva-su-cupula/",
+                "title": "Terremoto en Mercadona: Juan Roig renueva su cúpula",
+                "published": "2026-06-30",
+                "opened": true
+              },
+              {
+                "url": "https://www.eldebate.com/espana/comunidad-valenciana/20260630/juan-roig-renueva-sala-mandos-mercadona-quien-quien-comite-direccion-cadena_434160.html",
+                "title": "Juan Roig renueva la sala de mandos de Mercadona: quién es quién en el Comité de Dirección y en el Consejo de Administración",
+                "published": "2026-06-30",
+                "opened": true
+              },
+              {
+                "url": "https://www.sweetpress.com/distribucion/cambios-en-el-comite-de-direccion-de-mercadona-FF20436021",
+                "title": "Cambios en el Comité de Dirección de Mercadona",
+                "published": null,
+                "opened": false
+              },
+              {
+                "url": "https://www.norbolsa.es/NASApp/norline/SesionServlet?PNBORG=E&PNBFMT=h5t1&PNBNOT=20260629191802&PNBVEW=2&PNBIDI=es&PNBINS=9573&PNBSTR=OSTSFR04&PNBPOR=nota&PNBMEN=3&PNBOPE=NOTDNO00",
+                "title": "Norbolsa (Europa Press): Hernández's Finance area is taken over by Patricia Tobía",
+                "published": "2026-06-29",
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Directora General de Informática y Financiera: americaretail-malls.com (2026-06-30)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Mercadona restructured its Management Committee: Patricia Tobía, head of IT, also takes on the finance area and now appears as Directora General de Informática y Financiera.",
+                "source": {
+                  "url": "https://www.sweetpress.com/distribucion/cambios-en-el-comite-de-direccion-de-mercadona-FF20436021",
+                  "title": "Cambios en el Comité de Dirección de Mercadona",
+                  "published": "2026-06-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Mercadona IT built Atenea, an agentic AI platform for software development that more than 500 engineers use, with plans to support AI models from several vendors.",
+                "source": {
+                  "url": "https://www.diariodeleon.es/economia/260930/2098836/mercadona-apuesta-atenea-propia-ia-desarrollar-software.html",
+                  "title": "Mercadona apuesta por Atenea, su propia IA para desarrollar software",
+                  "published": "2026-09-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Mercadona's virtual WhatsApp assistant Carol nearly doubled its volume, from about 96,000 interactions in 2024 to 180,500 in 2025.",
+                "source": {
+                  "url": "https://theobjective.com/economia/2026-03-14/carol-empleada-virtual-mercadona-atencion-digital/",
+                  "title": "Carol, la empleada virtual de Mercadona, duplica la atención digital al cliente en un año",
+                  "published": "2026-03-14",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": null,
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Patricia, I'm [Your name] from Concentrix. Mercadona's Carol went from about 96,000 WhatsApp interactions in 2024 to 180,500 in 2025. Big growth. iX Hello, our generative-AI platform, builds self-service assistants and agents. Open to a 20-minute demo on one of your scenarios?",
+            "email_subject": "Carol's growth on WhatsApp",
+            "email_body": "Hi Patricia,\n\nI'm [Your name] from Concentrix.\n\nMercadona's virtual WhatsApp assistant Carol nearly doubled its volume, from about 96,000 interactions in 2024 to 180,500 in 2025. Big growth. What's driving it?\n\nConcentrix serves more than 2,000 clients, including more than 160 of the Fortune Global 500. iX Hello is our generative-AI platform for building self-service assistants and agents. I think it could be useful for your team.\n\nWould a 20-minute demo on one of your own customer-service scenarios help? Does Tuesday or Thursday next week work for you?\n\nBest,\n[Your name]",
+            "hooks": [
+              "Mercadona's virtual WhatsApp assistant Carol nearly doubled its volume, from about 96,000 interactions in 2024 to 180,500 in 2025."
+            ],
+            "seller_facts": [
+              "iX Hello is a generative-AI platform for building self-service assistants and agents.",
+              "Concentrix serves more than 2,000 clients, including more than 160 of the Fortune Global 500."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts name Mercadona and its WhatsApp assistant Carol, with its interaction figures for 2024 and 2025 (about 96,000 to 180,500). You couldn't send them to another person at another company without changing them."
+          }
+        },
+        {
+          "contact": {
+            "name": "Sergio Pajares",
+            "title": "CTO",
+            "company": "Mercadona, S.A.",
+            "buying_role": "decision_maker",
+            "seniority": "c_level",
+            "relevance": 3,
+            "relevance_reason": "He publicly leads Mercadona IT's in-house agentic AI platform, Atenea. That work is aimed at internal processes, and nothing public ties him to customer service.",
+            "why": "He launched Atenea (500+ engineers) and is quoted saying 'La IA no sustituye la responsabilidad técnica, la amplifica'. He decides whether customer-facing AI is built in-house or bought, and he will look hardest at governance and how it fits the existing stack.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://officialpress.es/mercadona-atenea-inteligencia-artificial-software/",
+                "title": "Mercadona apuesta por Atenea, su propia IA para desarrollar software",
+                "published": "2026-10-01",
+                "opened": true
+              },
+              {
+                "url": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20260618/mercadona-reconocida-empresa-innovadora-distribucion-espana/1003744290942_0.html",
+                "title": "Mercadona, reconocida como la empresa más innovadora en la distribución en España",
+                "published": "2026-06-18",
+                "opened": true
+              },
+              {
+                "url": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20251215/sergio-pajares-cto-mercadona-queremos-tener-mejor-ia-mundo-vender-lechugas/1003744052244_0.html",
+                "title": "Sergio Pajares, CTO de Mercadona: \"Queremos tener la mejor IA del mundo para vender lechugas\"",
+                "published": "2025-12-15",
+                "opened": false
+              },
+              {
+                "url": "https://info.mercadona.es/en/current-affairs/mercadona-embraces-atenea-its-in-house-ai-for-software-development/news",
+                "title": "Mercadona launches Atenea, its own in-house AI",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "CTO: officialpress.es (2026-10-01)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Sergio Pajares, Mercadona's CTO, said at Atenea's launch: \"La IA no sustituye la responsabilidad técnica, la amplifica\". He added that teams keep control and judgement over decisions.",
+                "source": {
+                  "url": "https://lexpress-franchise.com/es/ultimas-noticias/mercadona-lanza-atenea-ia-propia-500-ingenieros/",
+                  "title": "Mercadona lanza Atenea, su plataforma propia de IA con más de 500 ingenieros",
+                  "published": "2026-09-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Mercadona IT launched Atenea, an agentic AI platform used by more than 500 engineers, and plans to extend AI agents across the full software development cycle with models from multiple vendors.",
+                "source": {
+                  "url": "https://lexpress-franchise.com/es/ultimas-noticias/mercadona-lanza-atenea-ia-propia-500-ingenieros/",
+                  "title": "Mercadona lanza Atenea, su plataforma propia de IA con más de 500 ingenieros",
+                  "published": "2026-09-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Conversations with Carol, Mercadona's WhatsApp virtual assistant, nearly doubled to about 180,500 in 2025 from roughly 96,000 in 2024, and a human customer service team still handles queries.",
+                "source": {
+                  "url": "https://theobjective.com/economia/2026-03-14/carol-empleada-virtual-mercadona-atencion-digital/",
+                  "title": "Carol, la empleada virtual de Mercadona",
+                  "published": "2026-03-14",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": null,
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Sergio, I'm [Your name] from Concentrix. At Atenea's launch you said \"La IA no sustituye la responsabilidad técnica, la amplifica\". Our iX Hero is an agentic desktop for contact-center agents with a human in the loop. Open to a 20-min demo on one of your scenarios?",
+            "email_subject": "Atenea and keeping teams in control",
+            "email_body": "Hi Sergio,\n\nI'm [Your name] from Concentrix. At Atenea's launch, you said \"La IA no sustituye la responsabilidad técnica, la amplifica\", and added that teams keep control and judgement over decisions.\n\nThat's a strong principle. Does it apply in the same way when AI talks to customers?\n\nSince September 2025, our agent-building platform, iX Hello, has been part of our Agentic Operating Framework, which targets the issues behind failed enterprise AI deployments. We also have an agentic desktop for contact-center agents that keeps a human in the loop. I think this approach could fit the way your team looks at governance.\n\nWould a 20-minute demo on one of your own customer service scenarios be useful? Which day in the next two weeks works for you?\n\nBest,\n[Your name]",
+            "hooks": [
+              "Sergio Pajares, Mercadona's CTO, said at Atenea's launch: \"La IA no sustituye la responsabilidad técnica, la amplifica\". He added that teams keep control and judgement over decisions."
+            ],
+            "seller_facts": [
+              "Since September 2025 iX Hello is the agent-building platform inside Concentrix's Agentic Operating Framework, which targets the issues behind failed enterprise AI deployments.",
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts name Sergio Pajares and Mercadona's Atenea platform and quote what he said at its launch: \"La IA no sustituye la responsabilidad técnica, la amplifica\", plus his point that teams keep control and judgement over decisions. Neither draft could go to a different person at a different company without changes."
+          }
+        }
+      ]
+    },
+    {
+      "input_name": "Teleperformance",
+      "status": "needs_decision",
+      "reason": "Weak fit: Teleperformance (TP) is the world's largest customer-experience/call-center BPO, with about 490,000 employees. That makes it a direct competitor of Concentrix, and the ICP rules competitors out as weak fit even though its operation is huge.",
+      "profile": {
+        "input_name": "Teleperformance",
+        "resolved_name": "Teleperformance SE (now branded TP)",
+        "domain": "tp.com",
+        "fit": "weak",
+        "fit_reason": "Teleperformance (TP) is the world's largest customer-experience/call-center BPO, with about 490,000 employees. That makes it a direct competitor of Concentrix, and the ICP rules competitors out as weak fit even though its operation is huge.",
+        "fit_sources": [
+          {
+            "url": "https://en.wikipedia.org/wiki/TP_(company)",
+            "title": "TP (company) - Wikipedia",
+            "published": null,
+            "opened": true
+          },
+          {
+            "url": "https://news.bloomberglaw.com/artificial-intelligence/teleperformance-replaces-ceos-with-mckinsey-ai-consultant-2",
+            "title": "Teleperformance Replaces CEOs With McKinsey AI Consultant",
+            "published": "2026-02-27",
+            "opened": true
+          }
+        ],
+        "signals": [
+          {
+            "text": "TP named former McKinsey senior partner Jorge Amar as CEO, effective March 16, 2026, to lead its Future Forward plan built around large-scale AI integration; Daniel Julien and Thomas Mackenbrock stepped down from their executive roles.",
+            "source": {
+              "url": "https://ca.marketscreener.com/news/tp-ce7e5cdeda8df62d",
+              "title": "TP (MarketScreener)",
+              "published": "2026-02-27",
+              "opened": true
+            }
+          },
+          {
+            "text": "Bloomberg reported that Teleperformance hired Amar, who previously led McKinsey's digital customer care practice, to help it navigate the threat AI poses to its call-center business.",
+            "source": {
+              "url": "https://news.bloomberglaw.com/artificial-intelligence/teleperformance-replaces-ceos-with-mckinsey-ai-consultant-2",
+              "title": "Teleperformance Replaces CEOs With McKinsey AI Consultant",
+              "published": "2026-02-27",
+              "opened": true
+            }
+          },
+          {
+            "text": "Benoit Gabelle, who had been interim CFO since March 2026, was confirmed as Group CFO effective September 24, 2026, with a mandate to support the group's transformation.",
+            "source": {
+              "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/teleperformance-confirms-benoit-gabelle-what-it-means-for-teleperformance-stock/70346749",
+              "title": "Teleperformance confirms Benoit Gabelle: what it means for Teleperformance stock",
+              "published": "2026-10-17",
+              "opened": true
+            }
+          }
+        ]
+      },
+      "unconfirmed": [],
+      "role_notes": {},
+      "alternates": {},
+      "contacts": []
+    }
+  ]
+}

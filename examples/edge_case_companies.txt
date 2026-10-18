@@ -1,0 +1,7 @@
+# Inputs that should not be easy. Expected behavior in comments.
+Zalando        # little public data on support leaders: honest "not found" for some roles
+Mercury        # ambiguous name: asks (manual run) or parks for decision (batch)
+Klarnaa        # typo: resolves to Klarna, shows input -> resolved
+Holded         # small company: weak fit
+Mercadona      # few English sources: searches in Spanish
+Teleperformance  # Concentrix competitor: weak fit

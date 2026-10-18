@@ -1,0 +1,2141 @@
+{
+  "started_at": "2026-10-18 23:52",
+  "seller": "Concentrix iX Suite",
+  "summary": {
+    "companies": 5,
+    "processed": 5,
+    "needs_decision": 0,
+    "failed": 0,
+    "not_found": 0,
+    "contacts": 15,
+    "contacts_high": 11,
+    "drafts_by_basis": {
+      "personal": 8,
+      "company": 7,
+      "role": 0
+    },
+    "passed_first_try": 11,
+    "duration_s": 63.767544040994835,
+    "cost_usd": 0.20853960000000002,
+    "searches": 0
+  },
+  "companies": [
+    {
+      "input_name": "Vodafone",
+      "status": "done",
+      "reason": null,
+      "profile": {
+        "input_name": "Vodafone",
+        "resolved_name": "Vodafone Group Plc",
+        "domain": "vodafone.com",
+        "fit": "strong",
+        "fit_reason": "Vodafone Group Plc is a multi-country telecom operator, which is the communications industry in the profile. It runs its own contact centres plus the _VOIS shared-services arm (about 29,000–30,000 staff serving 28 countries, figures seen in search results only), and in the UK its TOBi chatbot alone handles about 1 million interactions a month. It also has a visible AI and CX agenda in 2026: the CEO calls customer experience the 'number one priority' and the company is rolling out TOBi and SuperTOBi AI agents in customer care.",
+        "fit_sources": [
+          {
+            "url": "https://www.vodafone.co.uk/newscentre/viewpoint/artificial-intelligence-vodafone-next-generation-customer-service/",
+            "title": "How Vodafone is using AI to shape the next generation of customer service",
+            "published": null,
+            "opened": false
+          },
+          {
+            "url": "https://www.rcrwireless.com/20260512/carriers/vodafone-ai-fy26-5g-fwa",
+            "title": "Vodafone pitches AI future on back of decent FY26 and UK FWA launch",
+            "published": "2026-05-12",
+            "opened": true
+          },
+          {
+            "url": "https://www.reveliolabs.com/companies/vois/employees",
+            "title": "How many employees work at VOIS?",
+            "published": null,
+            "opened": false
+          },
+          {
+            "url": "https://www.microsoft.com/en/customers/story/1770174778560829849-vodafone-group-azure-telecommunications-en-united-kingdom",
+            "title": "Vodafone amplifies call center innovation, customer service, and employee inclusion with Azure AI",
+            "published": null,
+            "opened": false
+          }
+        ],
+        "signals": [
+          {
+            "text": "On the FY26 results (May 2026), group CFO Pilar López said AI is helping customer care through TOBi, a voice agent for simple high-volume calls, and SuperTOBi, a generative-AI upgrade for the most complex customer journeys, while CEO Margherita Della Valle named customer experience the company's 'number one priority'.",
+            "source": {
+              "url": "https://www.rcrwireless.com/20260512/carriers/vodafone-ai-fy26-5g-fwa",
+              "title": "Vodafone pitches AI future on back of decent FY26 and UK FWA launch",
+              "published": "2026-05-12",
+              "opened": true
+            }
+          },
+          {
+            "text": "In Vodafone's 2026 predictions, CEO Margherita Della Valle said AI will have real impacts on customer experience in 2026, with simple chatbots becoming fully fledged digital customer service agents and human front-line staff handling the most complex or sensitive cases.",
+            "source": {
+              "url": "https://www.vodafone.com/news/newsroom/corporate-and-financial/vodafone-fast-forward-predictions",
+              "title": "Vodafone Fast Forward: Predictions for 2026",
+              "published": "2026-01-08",
+              "opened": true
+            }
+          },
+          {
+            "text": "Vodafone published a piece on redefining customer experience 'from contact centres to connected journeys', covering omnichannel support, first-contact resolution and its TOBi/SuperTOBi assistants, which shows an active CX transformation agenda.",
+            "source": {
+              "url": "https://www.vodafone.com/news/newsroom/empowering-people/redefining-customer-experience",
+              "title": "Redefining customer experience: from contact centres to connected journeys",
+              "published": "2026-04-14",
+              "opened": true
+            }
+          }
+        ]
+      },
+      "unconfirmed": [],
+      "role_notes": {},
+      "alternates": {
+        "economic_buyer": [
+          {
+            "name": "Bev Bartlett",
+            "title": "Group Head of Digital Care (earlier listed as Group Director of Digital Care)",
+            "relevance": 5,
+            "why_not": "less senior (head vs c_level)",
+            "source_url": "https://www.telecoms.com/ai/transforming-customer-care-vodafone-s-ai-journey-and-vision-for-the-future"
+          },
+          {
+            "name": "Ciaran Barrett",
+            "title": "Commercial Operations Director, Vodafone Ireland",
+            "relevance": 5,
+            "why_not": "less senior (director vs c_level)",
+            "source_url": "https://www.techcentral.ie/?p=154115"
+          }
+        ],
+        "decision_maker": [
+          {
+            "name": "Gemma Alvarez",
+            "title": "Global Product Owner (Global Commercial Product Owner for TOBi)",
+            "relevance": 5,
+            "why_not": "less senior (other vs head)",
+            "source_url": "https://www.chatbotsummit.com/speaker/gemmaalvarez"
+          },
+          {
+            "name": "Ignacio Garcia",
+            "title": "CTO Vodafone Business and Global AI Director",
+            "relevance": 4,
+            "why_not": "less focused on what we sell (relevance 4 vs 5)",
+            "source_url": "https://www.vodafone.com/news/newsroom/corporate-and-financial/vodafone-fast-forward-predictions"
+          }
+        ],
+        "champion": [
+          {
+            "name": "Aimie Jago",
+            "title": "Global Senior CX and Service Excellence Senior Manager",
+            "relevance": 4,
+            "why_not": "less focused on what we sell (relevance 4 vs 5)",
+            "source_url": "https://www.cxtoday.com/customer-engagement-platforms/vodafone-shows-off-just-ask-once-strategy-at-ccexpo-2025/"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "contact": {
+            "name": "Guido Weissbrich",
+            "title": "Member of the Management Board, Vodafone Germany; head of Commercial Operations (\"Service-Chef\", customer service)",
+            "company": "Vodafone Group Plc (Vodafone GmbH, Germany)",
+            "buying_role": "economic_buyer",
+            "seniority": "c_level",
+            "relevance": 5,
+            "relevance_reason": "Board-level owner of customer service in Vodafone's biggest market. In April 2026 he spoke publicly about TOBi handling about 600k contacts a month, getting generative AI, and resolving 74% of queries on its own.",
+            "why": "As Vodafone Germany's management board member running Commercial Operations and the customer service budget, Weissbrich decides how Vodafone's AI agents push, including TOBi and SuperTOBi, reaches German customer care.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://unternehmen.vodafone.de/management",
+                "title": "Vodafone Deutschland – Management",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://www.teltarif.de/en/vodafone-kundenbetreuung-hotline/news/103201.html",
+                "title": "Super TOBi: Vodafone makes customer service significantly faster - teltarif.de",
+                "published": "2026-04-27",
+                "opened": true
+              },
+              {
+                "url": "https://www.vodafone.de/media/downloads/pdf/Weissbrich_eng.pdf",
+                "title": "Curriculum Vitae Guido Weissbrich, Vodafone GmbH",
+                "published": null,
+                "opened": false
+              },
+              {
+                "url": "https://www.computerwoche.de/article/4163828/vodafone-optimiert-tobi-mit-genai.html",
+                "title": "Vodafone optimiert TOBi mit GenAI (Computerwoche)",
+                "published": "2026-04-28",
+                "opened": true
+              },
+              {
+                "url": "https://www.teltarif.de/arch/2023/kw49/s93953.html",
+                "title": "Teltarif: Vodafone Service-Chef Guido Weißbrich on hotline wait times and AI",
+                "published": "2023",
+                "opened": false
+              },
+              {
+                "url": "https://www.leadersnet.de/news/99529,vodafone-optimiert-chatbot-tobi-74-erfolgsquote-durch.html",
+                "title": "Vodafone optimiert Chatbot TOBi: 74 % Erfolgsquote durch generative KI von Google (Leadersnet)",
+                "published": "2026-04-27",
+                "opened": true
+              },
+              {
+                "url": "https://unternehmen.vodafone.de/newsroom/veraenderungen-in-der-geschaeftsfuehrung-von-vodafone-deutschland",
+                "title": "Veränderungen in der Geschäftsführung von Vodafone Deutschland (appointed Director Customer Operations from 1 July 2022)",
+                "published": "2022-07-27",
+                "opened": true
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Director Commercial Operations, Vodafone Deutschland (Member of the Management Board, Commercial Operations / customer service): computerwoche.de (2026-04-28)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "On 26 August 2026 Vodafone reported about 80% first-contact resolution, quoting Guido Weißbrich, Director Commercial Operations: \"Wir wollen für unsere Kundinnen und Kunden den besten Service der Branche liefern.\"",
+                "source": {
+                  "url": "https://unternehmen.vodafone.de/newsroom/mehr-anliegen-im-erstkontakt-geloest",
+                  "title": "Erstlösequote im Kundenservice von Vodafone verbessert",
+                  "published": "2026-08-26",
+                  "opened": true
+                }
+              },
+              {
+                "text": "The same release says repeat calls about the same issue fell 6% year over year and the average hotline wait time is 140 seconds.",
+                "source": {
+                  "url": "https://unternehmen.vodafone.de/newsroom/mehr-anliegen-im-erstkontakt-geloest",
+                  "title": "Erstlösequote im Kundenservice von Vodafone verbessert",
+                  "published": "2026-08-26",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Vodafone GmbH won 'Customer Service of the Year 2026' in telecoms, and Management Board member Guido Weissbrich said customer service is \"a true passion\" for Vodafone.",
+                "source": {
+                  "url": "https://kundenservicedesjahres.com/en/news/1093-das-sind-die-gewinner-von-gewahlt-zum-kundenservice-des-jahres-2026",
+                  "title": "THESE ARE THE WINNERS OF \"VOTED CUSTOMER SERVICE OF THE YEAR 2026\"!",
+                  "published": "2025-11-06",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "Even at Vodafone's best-ever level, about one in five hotline issues is not solved on first contact, and callers still wait 140 seconds on average.",
+              "source": {
+                "url": "https://unternehmen.vodafone.de/newsroom/mehr-anliegen-im-erstkontakt-geloest",
+                "title": "Erstlösequote im Kundenservice von Vodafone verbessert",
+                "published": "2026-08-26",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Guido, I'm [Your name] from Concentrix. In August Vodafone reported about 80% first-contact resolution. Our iX Hero is an agentic desktop that gives contact-center agents real-time answers. Open to a 20-min demo on one of your scenarios?",
+            "email_subject": "Vodafone's first-contact resolution numbers",
+            "email_body": "Hi Guido,\n\nI'm [Your name] from Concentrix.\n\nIn August, Vodafone reported about 80% first-contact resolution. The same release said repeat calls about the same issue fell 6% year over year, and the average hotline wait time is 140 seconds.\n\nWhich of those two numbers is harder to move from here?\n\nOur iX Hero is an agentic desktop for contact-center agents, with a human in the loop, that gives them real-time answers. I think it could be useful for the people taking calls on your hotline.\n\nWould a 20-minute demo on one of your own scenarios be worth it? Send me a time in the next two weeks that suits you.\n\nBest,\n[Your name]",
+            "hooks": [
+              "On 26 August 2026 Vodafone reported about 80% first-contact resolution, quoting Guido Weißbrich, Director Commercial Operations: \"Wir wollen für unsere Kundinnen und Kunden den besten Service der Branche liefern.\"",
+              "The same release says repeat calls about the same issue fell 6% year over year and the average hotline wait time is 140 seconds."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts use numbers from Vodafone's 26 August 2026 release: about 80% first-contact resolution, repeat calls down 6% year over year, and a 140-second average hotline wait. They name Vodafone and Guido, so they can't go to another person at another company without changes."
+          }
+        },
+        {
+          "contact": {
+            "name": "Thomas Neumann",
+            "title": "Global Lead on Conversational AI",
+            "company": "Vodafone Group Plc",
+            "buying_role": "decision_maker",
+            "seniority": "head",
+            "relevance": 5,
+            "relevance_reason": "Owns Vodafone's conversational AI (TOBi/SuperTOBi) program and has spoken repeatedly at Chatbot Summit about building it in-house across several NLU and GenAI vendors.",
+            "why": "As Vodafone's Global Lead on Conversational AI, Thomas Neumann decides which customer service AI the company buys as TOBi and SuperTOBi become full digital agents.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.chatbotsummit.com/talks-1/on-our-way-to-a-billion-conversations-with-vodafone-tobi",
+                "title": "On our way to a billion conversations with Vodafone TOBi – Chatbot Summit (Berlin, March 20; year not shown on page)",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://www.chatbotsummit.com/speakers/ams25/thomas-neumann",
+                "title": "Thomas Neumann – Chatbot Summit Amsterdam 2025 speaker",
+                "published": "2025",
+                "opened": false
+              },
+              {
+                "url": "https://www.chatbotsummit.com/berlin-2025-sessions/7-years-of-innovation%3A-tobi%E2%80%99s-leap-from-nlu-to-genai-and-the-agentic-future",
+                "title": "7 Years of Innovation: TOBi's Leap from NLU to GenAI and the Agentic Future – Chatbot Summit Berlin 2025",
+                "published": "2025",
+                "opened": false
+              },
+              {
+                "url": "https://www.agentiqworld.com/ourspeakers/thomas-neumann",
+                "title": "Agentiq World Amsterdam 2026 speaker: Thomas Neumann, Global Lead on Conversational AI, Vodafone (event 25–26 Nov 2026)",
+                "published": "2026-11",
+                "opened": true
+              },
+              {
+                "url": "https://www.chatbotsummit.com/a-edition/global-2026",
+                "title": "Chatbot Summit Global 2026 (Berlin, 24–25 March 2026) – speaker listing per search result",
+                "published": "2026-03",
+                "opened": false
+              },
+              {
+                "url": "https://www.linkedin.com/in/digitalneumann/",
+                "title": "Thomas Neumann - Vodafone (LinkedIn search result)",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Global Lead on Conversational AI, Vodafone: agentiqworld.com (2026-11)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Thomas Neumann, Global Lead on Conversational AI at Vodafone, gives a keynote on 26 November 2026 at Agentiq World Amsterdam: \"10 Years of TOBi The End of Chatbots: Welcome to the Agent Economy\".",
+                "source": {
+                  "url": "https://www.agentiqworld.com/ourspeakers/thomas-neumann",
+                  "title": "Thomas Neumann, Global Lead on Conversational AI, Vodafone - Agentiq World",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "Thomas Neumann, listed as Vodafone's Global Conversational AI Lead, speaks at the Conversational AI & Customer Experience Summit Europe in Munich on 28-29 October 2026.",
+                "source": {
+                  "url": "https://conversationaltechsummit.com/team/thomas-neumann/",
+                  "title": "Thomas Neumann - Conversational Tech Summit Europe",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "At Chatbot Summit Berlin on 1 April 2025, Neumann's keynote traced TOBi's evolution from an NLU-based system to a GenAI framework and its move toward agentic capabilities.",
+                "source": {
+                  "url": "https://www.chatbotsummit.com/berlin-2025-sessions/7-years-of-innovation%3A-tobi%E2%80%99s-leap-from-nlu-to-genai-and-the-agentic-future",
+                  "title": "7 Years of Innovation: Tobi's Leap from NLU to GenAI and the Agentic Future - Chatbot Summit Berlin 2025",
+                  "published": "2025-04-01",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": null,
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Thomas, I'm [Your name] from Concentrix. You keynote Agentiq World Amsterdam on 26 Nov on 10 years of TOBi. Our iX Hello builds agents in a framework that targets why enterprise AI deployments fail. Open to a 20-min demo on one TOBi scenario?",
+            "email_subject": "TOBi after the chatbot era",
+            "email_body": "Hi Thomas,\n\nI'm [Your name] from Concentrix. On 26 November you're giving the keynote at Agentiq World Amsterdam: \"10 Years of TOBi The End of Chatbots: Welcome to the Agent Economy\".\n\nAs chatbots give way to agents, how are you approaching governance and the fit with your existing systems?\n\nSince September 2025, our iX Hello platform has been the agent-building platform inside our Agentic Operating Framework, which targets the issues behind failed enterprise AI deployments. I think it could be relevant to the shift your keynote is about.\n\nWould a 20-minute demo on one of your own TOBi scenarios be useful? Does a slot next week or the week after work for you?\n\nBest,\n[Your name]",
+            "hooks": [
+              "Thomas Neumann, Global Lead on Conversational AI at Vodafone, gives a keynote on 26 November 2026 at Agentiq World Amsterdam: \"10 Years of TOBi The End of Chatbots: Welcome to the Agent Economy\"."
+            ],
+            "seller_facts": [
+              "Since September 2025 iX Hello is the agent-building platform inside Concentrix's Agentic Operating Framework, which targets the issues behind failed enterprise AI deployments.",
+              "iX Hello is a generative-AI platform for building self-service assistants and agents."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts name Thomas Neumann's 26 November 2026 keynote at Agentiq World Amsterdam, quote its title (\"10 Years of TOBi The End of Chatbots: Welcome to the Agent Economy\") and offer a demo on a TOBi scenario. None of that fits another person at another company without changes."
+          }
+        },
+        {
+          "contact": {
+            "name": "Jon Shaw",
+            "title": "Consumer Operations Director, VodafoneThree",
+            "company": "Vodafone Group Plc (VodafoneThree, UK)",
+            "buying_role": "champion",
+            "seniority": "director",
+            "relevance": 5,
+            "relevance_reason": "Runs UK customer operations, including the Stoke Centre of Excellence and 12,500 care staff. He has written publicly about Just Ask Once, first-call resolution and using AI to help agents.",
+            "why": "As VodafoneThree's Consumer Operations Director running daily customer support, Jon Shaw owns the front line where Vodafone's AI-agent, human-escalation customer-experience priority must deliver results.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.vodafone.co.uk/newscentre/viewpoint/vodafonethree-number-1-telco-customer-experience/",
+                "title": "Jon Shaw: How we're working to make VodafoneThree #1 for CX",
+                "published": "2025-08-07",
+                "opened": false
+              },
+              {
+                "url": "https://www.vodafone.co.uk/newscentre/tag/jon-shaw/",
+                "title": "Vodafone UK News Centre – Jon Shaw tag (latest item 08 Jan 2026)",
+                "published": "2026-01-08",
+                "opened": false
+              },
+              {
+                "url": "https://www.vodafonethree.com/new-three-year-partnership-fonehouse/",
+                "title": "VodafoneThree announces new three-year partnership with Fonehouse (quotes Jon Shaw, Consumer Operations Director)",
+                "published": "2025-11-04",
+                "opened": true
+              },
+              {
+                "url": "https://www.vodafonethree.com/currys-multi-year-partnership/",
+                "title": "VodafoneThree announces exclusive partnership with Currys (Jon Shaw, Consumer Operations Director)",
+                "published": "2025-07-02",
+                "opened": true
+              },
+              {
+                "url": "https://www.threemediacentre.co.uk/content/new-leadership-team-announced-for-the-future-merged-entity-of-vodafone-uk-and-three-uk/",
+                "title": "New leadership team announced for the future merged entity of Vodafone UK and Three UK (Jon Shaw named to Consumer Operations)",
+                "published": "2025-02",
+                "opened": false
+              }
+            ],
+            "confidence": "medium",
+            "linkedin_status": "not_found",
+            "role_evidence": "Consumer Operations Director, VodafoneThree: vodafone.co.uk (2026-01-08)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Jon Shaw, Consumer Operations Director at VodafoneThree, is quoted in the press release on VodafoneThree's three-year extension of its exclusive retail partnership with Get Connected.",
+                "source": {
+                  "url": "https://www.vodafone.co.uk/newscentre/press-release/vodafonethree-signs-three-year-extension-get-connected/",
+                  "title": "VodafoneThree signs three-year extension with Get Connected",
+                  "published": "2026-01-08",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Shaw said 'We firmly believe in having care teams where our customers are' as VodafoneThree added 200 Belfast and 200 Sheffield care jobs through its partner Concentrix.",
+                "source": {
+                  "url": "https://www.irishnews.com/news/business/vodafonethree-confirm-creation-of-200-new-call-centre-jobs-via-belfast-based-concentrix-DGXL3FGZANCKVBMQXZBE3VYTQQ/",
+                  "title": "VodafoneThree confirm creation of 200 new call centre jobs via Belfast-based Concentrix",
+                  "published": "2025-12-18",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Shaw wrote that TRUST training reached all 12,500 care employees, frontline staff are being cross-skilled, and first call resolution rose to 77%. He added that AI helps people do their jobs better.",
+                "source": {
+                  "url": "https://www.vodafone.co.uk/newscentre/viewpoint/vodafonethree-number-1-telco-customer-experience/",
+                  "title": "Jon Shaw: How we're working to make VodafoneThree #1 for CX",
+                  "published": "2025-08-07",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Vodafone Group completed its £4.3bn buyout of CK Hutchison's 49% stake and now owns 100% of VodafoneThree, with a VodafoneThree investor briefing scheduled for 8 October 2026.",
+                "source": {
+                  "url": "https://www.vodafone.com/news/newsroom/corporate-and-financial/vodafone-takes-full-ownership-of-vodafonethree",
+                  "title": "Vodafone takes full ownership of VodafoneThree",
+                  "published": "2026-07-30",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "'Just Ask Once' depends on cross-skilling 12,500 care staff toward a 77% first call resolution rate. Meanwhile, 400 new Concentrix agents need ramping up in Belfast and Sheffield.",
+              "source": {
+                "url": "https://www.vodafone.co.uk/newscentre/viewpoint/vodafonethree-number-1-telco-customer-experience/",
+                "title": "Jon Shaw: How we're working to make VodafoneThree #1 for CX",
+                "published": "2025-08-07",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Jon, I'm [Your name] from Concentrix. You wrote that first call resolution rose to 77% and TRUST training reached all 12,500 care employees. iX Hero is our agentic desktop giving agents real-time answers. Worth a 20-min demo on one of your scenarios?",
+            "email_subject": "Cross-skilling your care teams",
+            "email_body": "Hi Jon,\n\nI'm [Your name] from Concentrix.\n\nYou wrote that TRUST training reached all 12,500 care employees, frontline staff are being cross-skilled, and first call resolution rose to 77%. You also said AI helps people do their jobs better. As agents take on more query types, which ones are still the hardest to resolve first time?\n\niX Hero is our agentic desktop for contact-center agents, with a human in the loop, giving real-time answers, summaries, analytics and training. I think it could be useful for your cross-skilled frontline staff.\n\nCould we set up a 20-minute demo on one of your own scenarios? Does a slot next week work for you?\n\nBest,\n[Your name]",
+            "hooks": [
+              "Shaw wrote that TRUST training reached all 12,500 care employees, frontline staff are being cross-skilled, and first call resolution rose to 77%. He added that AI helps people do their jobs better."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts quote details that only fit Jon Shaw: TRUST training reaching all 12,500 care employees, cross-skilling frontline staff, first call resolution rising to 77%, and his line that AI helps people do their jobs better. You couldn't send either draft to another person at another company without changing it."
+          }
+        }
+      ]
+    },
+    {
+      "input_name": "Deutsche Telekom",
+      "status": "done",
+      "reason": null,
+      "profile": {
+        "input_name": "Deutsche Telekom",
+        "resolved_name": "Deutsche Telekom AG",
+        "domain": "telekom.com",
+        "fit": "strong",
+        "fit_reason": "Deutsche Telekom AG is a multinational telecom operator (communications, in the profile) with a very large multilingual, multi-country customer service operation: its 'Frag Magenta' chatbot alone handled about 2.6 million service calls in H1 2026. It is also visibly running an AI/CX transformation, with a €2.5bn AI savings target announced in Oct 2026 and AI agents replacing its phone menus (IVRs). Note: this AI-first automation push could compete with outsourced agent volume, so the pitch should stress AI-plus-human CX.",
+        "fit_sources": [
+          {
+            "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/10/deutsche-telekom-boosts-growth-efficiency-and-quality-through-t",
+            "title": "Deutsche Telekom boosts growth, efficiency and quality through the use of AI",
+            "published": "2026-10-05",
+            "opened": true
+          },
+          {
+            "url": "https://thenextweb.com/news/deutsche-telekom-kartik-sheth-ai-agents-phone-menus-humanx",
+            "title": "Deutsche Telekom is replacing phone menus with AI agents, its AI chief says",
+            "published": "2026-09-24",
+            "opened": true
+          }
+        ],
+        "signals": [
+          {
+            "text": "At its AI Investor Day on 5 Oct 2026, Deutsche Telekom said 'Frag Magenta' handled about 2.6M customer service calls in H1 2026, U.S. service calls fell 55% with AI agents handling 40% of contacts, and it targets about €2.5bn in indirect cost savings from AI and automation by 2030.",
+            "source": {
+              "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/10/deutsche-telekom-boosts-growth-efficiency-and-quality-through-t",
+              "title": "Deutsche Telekom boosts growth, efficiency and quality through the use of AI",
+              "published": "2026-10-05",
+              "opened": true
+            }
+          },
+          {
+            "text": "Chief AI Officer Kartik Sheth said Deutsche Telekom is replacing customer service IVRs with AI agents that answer in 40-60 languages, with the share of interactions resolved without a human rising 1-2 points a month.",
+            "source": {
+              "url": "https://thenextweb.com/news/deutsche-telekom-kartik-sheth-ai-agents-phone-menus-humanx",
+              "title": "Deutsche Telekom is replacing phone menus with AI agents, its AI chief says",
+              "published": "2026-09-24",
+              "opened": true
+            }
+          },
+          {
+            "text": "In Feb 2026 Telekom launched CoMind, its own conversational AI platform of voice and chat bots for customer service, optimized for 10 European languages plus 65 more.",
+            "source": {
+              "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/2/telekom-comind-conversational-ai",
+              "title": "Speaking customers' language: Telekom CoMind redefines AI-powered voice and chat bots for European businesses",
+              "published": "2026-02-25",
+              "opened": true
+            }
+          }
+        ]
+      },
+      "unconfirmed": [],
+      "role_notes": {},
+      "alternates": {
+        "economic_buyer": [
+          {
+            "name": "Anna Lins",
+            "title": "Managing Director (Geschäftsführung), Deutsche Telekom Service GmbH",
+            "relevance": 4,
+            "why_not": "as strong; kept the person picked earlier or with more public sources",
+            "source_url": "https://www.telekom.de/ueber-das-unternehmen/pflichtangaben-deutsche-telekom-service-gmbh"
+          },
+          {
+            "name": "Rodrigo Diehl",
+            "title": "Spokesperson of the Management Board, Telekom Deutschland GmbH; Member of the Board of Management, Deutsche Telekom AG",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://www.telekom.de/ueber-das-unternehmen/geschaeftsfuehrung"
+          }
+        ],
+        "decision_maker": [
+          {
+            "name": "Kartik Sheth",
+            "title": "Chief AI Officer",
+            "relevance": 5,
+            "why_not": "as strong; kept the person picked earlier or with more public sources",
+            "source_url": "https://thenextweb.com/news/deutsche-telekom-kartik-sheth-ai-agents-phone-menus-humanx"
+          },
+          {
+            "name": "Sahil Sakhuja",
+            "title": "Head of AI Products",
+            "relevance": 5,
+            "why_not": "less senior (head vs c_level)",
+            "source_url": "https://elevenlabs.io/blog/deutsche-telekom"
+          }
+        ],
+        "champion": [
+          {
+            "name": "Peter Meier van Esch",
+            "title": "Bereichsleiter Serviceentwicklung und Innovation / Operational Excellence, Telekom Deutschland",
+            "relevance": 4,
+            "why_not": "as strong; kept the person picked earlier or with more public sources",
+            "source_url": "https://www.connect.de/ratgeber/interview-steffen-schlaberg-service-chef-tel-3207748.html"
+          },
+          {
+            "name": "Oliver Nissen",
+            "title": "Head of Social Media & Services, Deutsche Telekom Service GmbH",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://www.ccw.eu/en/oliver-nissen.html"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "contact": {
+            "name": "Stefanie Becker",
+            "title": "Managing Director (Geschäftsführung), Deutsche Telekom Service GmbH",
+            "company": "Deutsche Telekom AG (Deutsche Telekom Service GmbH)",
+            "buying_role": "economic_buyer",
+            "seniority": "c_level",
+            "relevance": 4,
+            "relevance_reason": "Sits on the management of Telekom's customer-service company. Her exact area is not stated, and I found no public statements by her about AI or customer service.",
+            "why": "As Finance Managing Director of Deutsche Telekom Service GmbH, Stefanie Becker would weigh any iX Suite spend against Telekom's €2.5bn AI savings target and its in-house CoMind platform.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.telekom.de/ueber-das-unternehmen/pflichtangaben-deutsche-telekom-service-gmbh",
+                "title": "Pflichtangaben Deutsche Telekom Service GmbH",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://newsroom.congstar.de/pressreleases/ab-dem-1-november-2024-stephen-tesch-verantwortet-finanzen-bei-congstar-3349320",
+                "title": "Ab dem 1. November 2024: Stephen Tesch verantwortet Finanzen bei congstar. Says Stefanie Becker moves to Deutsche Telekom Service GmbH as Managing Director Finance",
+                "published": "2024-10-22",
+                "opened": true
+              },
+              {
+                "url": "https://www.linkedin.com/in/stefanie-becker-telekom/",
+                "title": "Stefanie Becker - Deutsche Telekom (LinkedIn profile, seen in search results only)",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Managing Director Finance (Geschäftsführerin Finanzen), Deutsche Telekom Service GmbH: newsroom.congstar.de (2024-10-22)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Telekom's legal-notice page names Stefanie Becker as one of three managing directors of Deutsche Telekom Service GmbH, alongside chairman Steffen Schlaberg and Anna Lins; the page is undated.",
+                "source": {
+                  "url": "https://www.telekom.de/ueber-das-unternehmen/pflichtangaben-deutsche-telekom-service-gmbh",
+                  "title": "Pflichtangaben Deutsche Telekom Service GmbH",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "Congstar announced that Stefanie Becker moved to the Telekom Group at her own request and now heads Finance on the management of Deutsche Telekom Service GmbH.",
+                "source": {
+                  "url": "https://newsroom.congstar.de/pressreleases/ab-dem-1-november-2024-stephen-tesch-verantwortet-finanzen-bei-congstar-3349320",
+                  "title": "Ab dem 1. November 2024: Stephen Tesch verantwortet Finanzen bei congstar",
+                  "published": "2024-10-22",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Deutsche Telekom said its Frag Magenta chatbot handled about 2.6 million customer-service calls in H1 2026, and early AI use cases for new connections cut complaints by 30%.",
+                "source": {
+                  "url": "https://telecomlead.com/5g/deutsche-telekom-targets-e2-5-billion-ai-cost-savings-by-2030-e800-million-in-ai-revenue-127992",
+                  "title": "Deutsche Telekom Targets €2.5 Billion AI Cost Savings by 2030, €800 Million in AI Revenue",
+                  "published": "2026-10-05",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Deutsche Telekom expects AI and automation to bring about €1.1bn in gross savings outside the U.S. in 2027 and about €2.5bn in indirect cost savings by 2030.",
+                "source": {
+                  "url": "https://telecomlead.com/5g/deutsche-telekom-targets-e2-5-billion-ai-cost-savings-by-2030-e800-million-in-ai-revenue-127992",
+                  "title": "Deutsche Telekom Targets €2.5 Billion AI Cost Savings by 2030, €800 Million in AI Revenue",
+                  "published": "2026-10-05",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "Telekom has committed to about €1.1bn in AI and automation gross savings outside the U.S. by 2027, which puts pressure on the service company's finance chief to show cost-per-contact gains at scale.",
+              "source": {
+                "url": "https://telecomlead.com/5g/deutsche-telekom-targets-e2-5-billion-ai-cost-savings-by-2030-e800-million-in-ai-revenue-127992",
+                "title": "Deutsche Telekom Targets €2.5 Billion AI Cost Savings by 2030, €800 Million in AI Revenue",
+                "published": "2026-10-05",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Stefanie, I'm [Your name] from Concentrix. On 5 Oct Telekom said Frag Magenta handled about 2.6M customer service calls in H1 2026. iX Hero gives contact-center agents real-time answers and summaries. Open to a 20-min demo on one of your scenarios?",
+            "email_subject": "Frag Magenta and the €2.5bn target",
+            "email_body": "Hi Stefanie,\n\nI'm [Your name] from Concentrix.\n\nAt its AI Investor Day on 5 October, Deutsche Telekom said Frag Magenta handled about 2.6 million customer service calls in H1 2026. It also set a target of about €2.5bn in indirect cost savings from AI and automation by 2030.\n\nHow do you look at cost per contact for the calls that still reach a human agent?\n\nOur iX Hero is an agentic desktop for contact-center agents, with a human in the loop, that gives real-time answers, summaries, analytics and training. I think it could be worth testing against that 2030 target.\n\nWould you have 20 minutes in the next two weeks for a demo on one of your own service scenarios?\n\nBest,\n[Your name]",
+            "hooks": [
+              "At its AI Investor Day on 5 Oct 2026, Deutsche Telekom said 'Frag Magenta' handled about 2.6M customer service calls in H1 2026, U.S. service calls fell 55% with AI agents handling 40% of contacts, and it targets about €2.5bn in indirect cost savings from AI and automation by 2030."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "company",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts name Deutsche Telekom, its Frag Magenta chatbot, the AI Investor Day on 5 October and the €2.5bn indirect cost-savings target for 2030. The question about cost per contact also suits Stefanie Becker's Finance role at Deutsche Telekom Service GmbH. You couldn't send these drafts to another person at another company without changing them."
+          }
+        },
+        {
+          "contact": {
+            "name": "Steffen Schlaberg",
+            "title": "Managing Director Sales & Service, Telekom Deutschland GmbH",
+            "company": "Deutsche Telekom AG (Telekom Deutschland GmbH)",
+            "buying_role": "decision_maker",
+            "seniority": "c_level",
+            "relevance": 5,
+            "relevance_reason": "Runs sales and customer service across Germany, the unit behind Frag Magenta. He has credited the targeted use of AI for service results.",
+            "why": "As Telekom Deutschland's Managing Director Sales & Service, Schlaberg decides which customer service software and AI Telekom buys as it expands Frag Magenta and CoMind toward €2.5bn savings.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.telekom.de/ueber-das-unternehmen/geschaeftsfuehrung",
+                "title": "Geschäftsführung der Telekom Deutschland GmbH",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://www.telekom.com/de/konzern/details/rekordsieg-im-hotline-test-1104596",
+                "title": "Rekordsieg im Hotline-Test",
+                "published": null,
+                "opened": false
+              },
+              {
+                "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2023/11/two-new-managing-directors-for-telekom-in-germany",
+                "title": "Two new Managing Directors for Telekom in Germany",
+                "published": "2023-11-21",
+                "opened": true
+              },
+              {
+                "url": "https://www.telekom.de/ueber-das-unternehmen/pflichtangaben-deutsche-telekom-service-gmbh",
+                "title": "Pflichtangaben Deutsche Telekom Service GmbH",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://www.connect.de/ratgeber/interview-steffen-schlaberg-service-chef-tel-3207748.html",
+                "title": "\"Was immer KI zu leisten vermag, die Menschen stehen bei uns im Mittelpunkt\" - connect",
+                "published": "2024-12-04",
+                "opened": true
+              },
+              {
+                "url": "https://www.teltarif.de/en/telekom-shop-popupstore-kundenservice/news/106329.html",
+                "title": "More shops: Deutsche Telekom plans customer service offensive - teltarif.de",
+                "published": "2026-09-24",
+                "opened": true
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Managing Director Sales & Service, Telekom Deutschland GmbH: teltarif.de (2026-09-24)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "In a connect interview, Steffen Schlaberg said: \"Wir setzen KI nur dort ein, wo sie den Menschen nützt – unseren Kunden wie auch unseren Beschäftigten.\"",
+                "source": {
+                  "url": "https://www.connect.de/ratgeber/interview-steffen-schlaberg-service-chef-tel-3207748.html",
+                  "title": "\"Was immer KI zu leisten vermag, die Menschen stehen bei uns im Mittelpunkt\" - connect",
+                  "published": "2024-12-04",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Schlaberg said the chatbot resolves over a third of requests immediately, that conversational AI will grow in importance, and that FragMagenta Voice would roll out in 2025.",
+                "source": {
+                  "url": "https://www.connect.de/ratgeber/interview-steffen-schlaberg-service-chef-tel-3207748.html",
+                  "title": "\"Was immer KI zu leisten vermag, die Menschen stehen bei uns im Mittelpunkt\" - connect",
+                  "published": "2024-12-04",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Telekom says AI gives service employees relevant information during calls and handles documentation, and that complaints fell 30 percent in early use cases.",
+                "source": {
+                  "url": "https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/10/telekom-steigert-wachstum-effizienz-und-qualitaet-durch-einsatz",
+                  "title": "Telekom steigert Wachstum, Effizienz und Qualität durch Einsatz von KI",
+                  "published": "2026-10-05",
+                  "opened": true
+                }
+              },
+              {
+                "text": "At MWC 2026 Telekom presented the Magenta AI Call Assistant, built with ElevenLabs, offering live translation and call summaries, with access for German customers planned this year.",
+                "source": {
+                  "url": "https://www.callcenterprofi.de/branchennews/detailseite/telekom-bringt-ki-direkt-ins-telefonat-20268690/",
+                  "title": "Telekom bringt KI direkt ins Telefonat - CallCenterProfi",
+                  "published": "2026-03-03",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "Telekom is building AI into live service calls to surface information and handle documentation for employees, so its rollout has to plug into the existing contact-center stack.",
+              "source": {
+                "url": "https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/10/telekom-steigert-wachstum-effizienz-und-qualitaet-durch-einsatz",
+                "title": "Telekom steigert Wachstum, Effizienz und Qualität durch Einsatz von KI",
+                "published": "2026-10-05",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Steffen, I'm [Your name] from Concentrix. You said Telekom uses AI only where it helps customers and employees. Our agentic desktop for contact-center agents gives real-time answers with a human in the loop. Open to a 20-minute demo on one of your scenarios?",
+            "email_subject": "Your rule for using AI",
+            "email_body": "Hi Steffen,\n\nI'm [Your name] from Concentrix.\n\nIn a connect interview, you said Telekom uses AI only where it helps people, both your customers and your employees.\n\nHow do you check that a new AI tool meets that bar before it reaches your service teams?\n\nOur iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training. In my view, the human-in-the-loop design is worth testing against your principle.\n\nWould a 20-minute demo on one of your own service scenarios be useful? Could you suggest a time in the next two weeks?\n\nBest,\n[Your name]",
+            "hooks": [
+              "In a connect interview, Steffen Schlaberg said: \"Wir setzen KI nur dort ein, wo sie den Menschen nützt – unseren Kunden wie auch unseren Beschäftigten.\""
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 2,
+            "fixed": [
+              "unsupported claim: Email subject 'AI that serves customers and staff': because it sits above a pitch for iX Hero, it reads as a claim that iX Hero serves both customers and staff. The facts only say iX Hero is a desktop for contact-center agents, with real-time answers, summaries, analytics and training. Nothing says it serves customers directly. The fix is to make the subject clearly about Schlaberg's principle, for example 'Your principle: AI that serves customers and staff', or to drop the product link."
+            ],
+            "judge_reason": "Both drafts are built on Steffen Schlaberg's own principle from his connect interview (\"Wir setzen KI nur dort ein, wo sie den Menschen nützt – unseren Kunden wie auch unseren Beschäftigten\"). The email also names the interview and Telekom. The text would not make sense sent unchanged to another person at another company."
+          }
+        },
+        {
+          "contact": {
+            "name": "Dr. Christian Niedworok",
+            "title": "Head of Digital Service Communication, Deutsche Telekom Service GmbH",
+            "company": "Deutsche Telekom AG (Deutsche Telekom Service GmbH)",
+            "buying_role": "champion",
+            "seniority": "head",
+            "relevance": 4,
+            "relevance_reason": "Runs the digital service channels behind Frag Magenta and spoke at MWC 2024 on scaling GenAI in customer interactions. He owns self-service rather than the agent floor, and the 2024 source is the most recent found.",
+            "why": "As Lead of Digital Service Communication, Niedworok runs the service channels where Telekom is replacing IVRs with AI agents, alongside Frag Magenta and CoMind, toward €2.5bn savings.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://mwc.telekom.com/session/scaling-genai-to-transform-customer-interactions",
+                "title": "Scaling GenAI to transform customer interactions (MWC 2024)",
+                "published": "2024-02-26",
+                "opened": true
+              },
+              {
+                "url": "https://mwc.telekom.com/speaker/dr-christian-niedworok-2024",
+                "title": "Dr. Christian Niedworok - MWC 2024 speaker",
+                "published": "2024",
+                "opened": false
+              },
+              {
+                "url": "https://cxfoundation.com/news/decagon-dialogues-2026",
+                "title": "Decagon Dialogues 2026: Preparing For the Agent-to-Agent (A2A) Era",
+                "published": "2026-10-02",
+                "opened": true
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Lead of Digital Service Communication, Deutsche Telekom: cxfoundation.com (2026-10-02)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "At its 5 Oct 2026 investor day, Telekom said an AI chatbot handled about 2.6 million customer service calls on its own in the first half of the year.",
+                "source": {
+                  "url": "https://www.hersfelder-zeitung.de/wirtschaft/telekom-offensive-chatgpt-ki-sollen-milliarden-einsparungen-bringen-zr-94525631.html",
+                  "title": "Milliarden-Ersparnis und ChatGPT an der Hotline: Wie die Telekom den Kundenservice umkrempelt",
+                  "published": "2026-10-05",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Telekom targets about €1.1 billion in annual indirect cost savings by 2027 and about €2.5 billion by 2030; at T-Mobile US, AI agents fully handle 40% of contacts.",
+                "source": {
+                  "url": "https://www.hersfelder-zeitung.de/wirtschaft/telekom-offensive-chatgpt-ki-sollen-milliarden-einsparungen-bringen-zr-94525631.html",
+                  "title": "Milliarden-Ersparnis und ChatGPT an der Hotline: Wie die Telekom den Kundenservice umkrempelt",
+                  "published": "2026-10-05",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Telekom Service uses a solution built with T-Systems that correctly recognizes about 80% of incoming customer emails and sorts them into roughly 60 service categories.",
+                "source": {
+                  "url": "https://digital-magazin.de/telekom-agenten-business-kundenservice-wirklich-hinter/",
+                  "title": "Telekom KI-Agenten: Business-Kundenservice sofort 2026",
+                  "published": "2026-07-15",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": null,
+            "personalization": "company",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Christian, I'm [Your name] from Concentrix. Kartik Sheth said Telekom is replacing service IVRs with AI agents. Our iX Hero gives contact-center agents real-time answers and summaries. Open to a 20-min demo on one of your scenarios?",
+            "email_subject": "When queries reach human agents",
+            "email_body": "Hi Christian,\n\nI'm [Your name] from Concentrix.\n\nYour Chief AI Officer, Kartik Sheth, said Deutsche Telekom is replacing customer service IVRs with AI agents. He also said the share of interactions resolved without a human is rising 1-2 points a month.\n\nAs that share grows, are the queries left for human agents the harder ones? And how is handle time moving on them?\n\nOur iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training. I think it could be useful for your team.\n\nWould you have 20 minutes for a demo on one of your own scenarios? Which day next week suits you?\n\nBest,\n[Your name]",
+            "hooks": [
+              "Chief AI Officer Kartik Sheth said Deutsche Telekom is replacing customer service IVRs with AI agents that answer in 40-60 languages, with the share of interactions resolved without a human rising 1-2 points a month."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "company",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts name Deutsche Telekom's Chief AI Officer Kartik Sheth and quote his statements: Telekom is replacing customer service IVRs with AI agents, and the share of interactions resolved without a human is rising 1-2 points a month. The questions about the harder queries left for human agents follow from that trend. The text could not go unchanged to a different person at a different company."
+          }
+        }
+      ]
+    },
+    {
+      "input_name": "BT Group",
+      "status": "done",
+      "reason": null,
+      "profile": {
+        "input_name": "BT Group",
+        "resolved_name": "BT Group plc",
+        "domain": "bt.com",
+        "fit": "strong",
+        "fit_reason": "BT Group is the UK's largest telecoms provider (brands BT, EE, Openreach, Plusnet) with about 108k total labour resource, UK contact centres, and an EE virtual assistant (Aimee) handling about 60,000 conversations a week (about 3M a year). It fits the communications vertical, and its FY26 results and recent launches show an active AI and CX transformation agenda.",
+        "fit_sources": [
+          {
+            "url": "https://newsroom.bt.com/bt-group-leans-on-ai-to-transform-customer-service-experience/",
+            "title": "BT Group leans on AI to transform customer service experience",
+            "published": "2024-12-12",
+            "opened": true
+          },
+          {
+            "url": "https://data.fca.org.uk/artefacts/NSM/RNS/1f1b8de6-a002-400e-878f-764e82c86d42.html",
+            "title": "BT Group plc full-year results to 31 March 2026 (RNS)",
+            "published": "2026-05-21",
+            "opened": true
+          },
+          {
+            "url": "https://jobs.bt.com/EE/content/Careers-at-EE-/?locale=en_GB",
+            "title": "Careers at EE",
+            "published": null,
+            "opened": false
+          }
+        ],
+        "signals": [
+          {
+            "text": "On 1 October 2026 BT Business launched 'AI from BT', a portfolio that includes a 24/7 AI Receptionist for handling customer calls, backed by a major advertising campaign.",
+            "source": {
+              "url": "https://newsroom.bt.com/ai-from-bt-launched-to-help-uk-firms-adopt-ai-with-confidence-targeting-37-billion-lost-through-missed-calls/",
+              "title": "'AI from BT' launched to help UK firms adopt AI with confidence",
+              "published": "2026-10-01",
+              "opened": true
+            }
+          },
+          {
+            "text": "In its FY26 results BT reported a record Group NPS of 33.4 (up 4.1 points) and raised its transformation savings target to £3.7BN by March 2030, with plans for AI-powered journey mapping and agentic AI across the customer service lifecycle, working with Accenture and ServiceNow.",
+            "source": {
+              "url": "https://www.cxtoday.com/crm/bt-ai-transformation-record-customer-satisfaction/",
+              "title": "BT Touts Record Customer Satisfaction from Business Transformation as Salesforce Finds AI Agents Improve CX",
+              "published": "2026-05-21",
+              "opened": true
+            }
+          },
+          {
+            "text": "BT's full-year results release says the company is developing AI initiatives to reduce cost to serve and improve customer journeys, while total labour resource fell 7% to 108k.",
+            "source": {
+              "url": "https://data.fca.org.uk/artefacts/NSM/RNS/1f1b8de6-a002-400e-878f-764e82c86d42.html",
+              "title": "BT Group plc full-year results to 31 March 2026 (RNS)",
+              "published": "2026-05-21",
+              "opened": true
+            }
+          }
+        ]
+      },
+      "unconfirmed": [],
+      "role_notes": {},
+      "alternates": {
+        "economic_buyer": [
+          {
+            "name": "Jon James",
+            "title": "CEO, BT Business",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://www.cxtoday.com/crm/bt-ai-transformation-record-customer-satisfaction/"
+          },
+          {
+            "name": "Claire Gillies",
+            "title": "CEO, Consumer",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://bt.com/about/bt/our-company/group-businesses/consumer"
+          }
+        ],
+        "decision_maker": [
+          {
+            "name": "Kevin Lee",
+            "title": "Chief Digital Officer, Consumer (BT Group: EE, BT and Plusnet)",
+            "relevance": 5,
+            "why_not": "kept the person picked in an earlier run",
+            "source_url": "https://www.verdict.co.uk/ai-chatbots-will-soon-be-able-to-make-business-process-suggestions-says-bt-cdo-kevin-lee/"
+          },
+          {
+            "name": "Hena Jalil",
+            "title": "MD, Business (Digital); Managing Director & Business CIO",
+            "relevance": 5,
+            "why_not": "as strong; kept the person picked earlier or with more public sources",
+            "source_url": "https://www.bt.com/about/bt/our-company/group-businesses/digital"
+          }
+        ],
+        "champion": [
+          {
+            "name": "Vanessa Pillay",
+            "title": "Director of Customer Service, BT Group",
+            "relevance": 4,
+            "why_not": "less senior (director vs vp)",
+            "source_url": "https://www.instituteofcustomerservice.com/head-to-head-with-vanessa-pillay-btgroup/"
+          },
+          {
+            "name": "Heather Orr",
+            "title": "Contact Centre Manager, Business Customer Support (BT Business Service)",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://jobs.bt.com/content/Insiders-View---Heather/"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "contact": {
+            "name": "Dr Tania Caporaso",
+            "title": "Director of Customer Care, BT and EE Broadband (Customer Care Director, BT Consumer)",
+            "company": "BT Group plc",
+            "buying_role": "economic_buyer",
+            "seniority": "director",
+            "relevance": 4,
+            "relevance_reason": "Runs customer care for BT and EE Broadband. She spoke on a contact-centre conference panel in September 2026, but I found no public statements from her about AI.",
+            "why": "As Director of Customer Care for BT and EE Broadband, she runs the service operation where BT plans agentic AI to cut cost to serve and lift NPS.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.ccma.org.uk/event/the-uk-national-contact-centre-conference-2026/",
+                "title": "UK National Contact Centre Conference 2026 – CCMA (panel 'From Cost Centre to Corporate Compass', 29 Sep 2026)",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://events.customersuccesscollective.com/location/london/speaker/drtaniacaporaso",
+                "title": "Customer Success Collective London – speaker profile: Director of Customer Care, BT and EE Broadband, BT Group",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Director of Customer Care – BT and EE Broadband (listed as Customer Care Director, BT Consumer in speaker profile): ccma.org.uk (undated)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Dr Tania Caporaso, Director of Customer Care for BT and EE Broadband, spoke on the 29 September 2026 CCMA panel 'From Cost Centre to Corporate Compass', which covered AI adoption and transformation.",
+                "source": {
+                  "url": "https://www.ccma.org.uk/event/the-uk-national-contact-centre-conference-2026/",
+                  "title": "UK National Contact Centre Conference 2026 - CCMA",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "Customer Contact Week Europe lists Dr Tania Caporaso, Director Customer Care, BT and EE Broadband, as a speaker.",
+                "source": {
+                  "url": "https://europe.customercontactweekdigital.com/events-ccweurope/speakers/dr-tania-caporaso",
+                  "title": "Dr Tania Caporaso - CCW Europe",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "BT's FY26 results cite customer journey simplification, with developing AI initiatives, delivering reduced cost to serve, alongside a record Group NPS of 33.4.",
+                "source": {
+                  "url": "https://data.fca.org.uk/artefacts/NSM/RNS/1f1b8de6-a002-400e-878f-764e82c86d42.html",
+                  "title": "BT Group plc full-year results (RNS 1737F)",
+                  "published": "2026-05-21",
+                  "opened": true
+                }
+              },
+              {
+                "text": "BT raised its transformation savings target to £3.7BN by March 2030 and is running an AI-Ops programme with Accenture and ServiceNow.",
+                "source": {
+                  "url": "https://www.cxtoday.com/crm/bt-ai-transformation-record-customer-satisfaction/",
+                  "title": "BT Touts Record Customer Satisfaction from Business Transformation - CX Today",
+                  "published": "2026-05-21",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "BT's FY26 results describe its AI initiatives as still 'developing' even as they are expected to cut cost to serve and BT keeps chasing record satisfaction.",
+              "source": {
+                "url": "https://data.fca.org.uk/artefacts/NSM/RNS/1f1b8de6-a002-400e-878f-764e82c86d42.html",
+                "title": "BT Group plc full-year results (RNS 1737F)",
+                "published": "2026-05-21",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Tania, I'm [Your name] from Concentrix. BT's full-year results say BT is developing AI initiatives to reduce cost to serve. iX Hero is our agentic desktop for contact-center agents, with a human in the loop. Worth a 20-min demo on a BT scenario?",
+            "email_subject": "AI and cost to serve",
+            "email_body": "Hi Tania,\n\nI'm [Your name] from Concentrix.\n\nBT's full-year results release says the company is developing AI initiatives to reduce cost to serve and improve customer journeys. The same release shows total labour resource fell 7% to 108k.\n\nWhich part of broadband care do you expect AI to take on first?\n\nOur iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training. I think it could be useful for your care teams as BT works on cost to serve.\n\nCould we set up a 20-minute demo on one of your own care scenarios? A pilot on one queue is another option. Would a slot next week work for you?\n\nBest,\n[Your name]",
+            "hooks": [
+              "BT's full-year results release says the company is developing AI initiatives to reduce cost to serve and improve customer journeys, while total labour resource fell 7% to 108k."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "company",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts depend on BT details. They quote BT's full-year results release on developing AI initiatives to reduce cost to serve and improve customer journeys. The email also cites the 7% fall in total labour resource to 108k and refers to broadband care, which matches her role as Director of Customer Care for BT and EE Broadband. Neither draft could go to another person at another company without changes."
+          }
+        },
+        {
+          "contact": {
+            "name": "Anthony Cass",
+            "title": "Director of Sales Contact Centres (EE, BT and Plusnet)",
+            "company": "BT Group plc",
+            "buying_role": "decision_maker",
+            "seniority": "director",
+            "relevance": 5,
+            "relevance_reason": "Runs the sales contact centres and was publicly quoted in 2025 on rolling out Verint bots for real-time agent assistance, scaling from 450 to 4,500 agents. His current role is not confirmed for 2026.",
+            "why": "Anthony Cass runs sales contact centres across EE, BT and Plusnet, where BT plans agentic AI to cut cost to serve and build on its record NPS.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.verint.com/press-room/2025-press-releases/bt-group-elevates-cx-grows-revenue-with-verint/",
+                "title": "BT Group Elevates Customer Experience and Grows Revenue in Sales Contact Centers with Verint Bots",
+                "published": "2025-06-11",
+                "opened": false
+              },
+              {
+                "url": "https://www.businesswire.com/news/home/20250611165311/en/BT-Group-Elevates-Customer-Experience-and-Grows-Revenue-in-Sales-Contact-Centers-With-Verint-Bots",
+                "title": "BT Group Elevates Customer Experience and Grows Revenue in Sales Contact Centers With Verint Bots",
+                "published": "2025-06-11",
+                "opened": false
+              },
+              {
+                "url": "https://europe.customercontactweekdigital.com/events-ccweurope/speakers/anthony-cass",
+                "title": "Anthony Cass – CCW Europe speaker page",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://www.silicon.co.uk/press-release/bt-group-elevates-customer-experience-and-grows-revenue-in-sales-contact-centers-with-verint-bots",
+                "title": "BT Group Elevates Customer Experience and Grows Revenue in Sales Contact Centers With Verint Bots",
+                "published": "2025-06-11",
+                "opened": true
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Director of Sales Contact Centres (EE, BT and Plusnet): verint.com (2025-06-11)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "CCW Europe lists Anthony Cass as Director of Sales Contact Centres at BT, leading BT Group's B2C sales teams across contact centres and digital commerce.",
+                "source": {
+                  "url": "https://europe.customercontactweekdigital.com/events-ccweurope/speakers/anthony-cass",
+                  "title": "Anthony Cass – CCW Europe Summit speaker profile",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "BT reported a record NPS of 33.4, raised its transformation savings target to £3.7BN, and plans AI-powered journey mapping with agentic AI to redesign customer processes.",
+                "source": {
+                  "url": "https://www.cxtoday.com/crm/bt-ai-transformation-record-customer-satisfaction/",
+                  "title": "BT Touts Record Customer Satisfaction from Business Transformation (CX Today)",
+                  "published": "2026-05-21",
+                  "opened": true
+                }
+              },
+              {
+                "text": "On 1 October 2026 BT Business launched AI Receptionist, which answers customer calls 24/7, as the first step in its 'AI from BT' portfolio.",
+                "source": {
+                  "url": "https://www.ispreview.co.uk/index.php/2026/10/fancy-an-ai-receptionist-bt-business-will-sell-your-company-one.html",
+                  "title": "Fancy an AI Receptionist? BT Business Will Sell Your Company One (ISPreview)",
+                  "published": "2026-10-01",
+                  "opened": true
+                }
+              },
+              {
+                "text": "BT Group deployed Sprinklr's AI platform across EE and BT support, planning AI interaction summaries and real-time guidance for customer service guides.",
+                "source": {
+                  "url": "https://newsroom.bt.com/bt-group-leans-on-ai-to-transform-customer-service-experience/",
+                  "title": "BT Group leans on AI to transform customer service experience",
+                  "published": "2024-12-12",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": null,
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Anthony, I'm [Your name] from Concentrix. BT Group deployed Sprinklr's AI platform across EE and BT support. Our iX Hero gives contact-center agents real-time answers with a human in the loop. Open to a 20-min demo on one of your scenarios?",
+            "email_subject": "Sprinklr AI across EE and BT",
+            "email_body": "Hi Anthony,\n\nI'm [Your name] from Concentrix.\n\nBT Group deployed Sprinklr's AI platform across EE and BT support, and plans AI interaction summaries and real-time guidance for customer service guides. Will your B2C sales contact centres use the same setup, or run their own? And when AI guides agents live, who decides what it's allowed to suggest?\n\nOur iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers. I think that human-in-the-loop model could be useful for your sales teams.\n\nDo you have 20 minutes next week for a demo on one of your own sales scenarios?\n\nBest,\n[Your name]",
+            "hooks": [
+              "BT Group deployed Sprinklr's AI platform across EE and BT support, planning AI interaction summaries and real-time guidance for customer service guides.",
+              "CCW Europe lists Anthony Cass as Director of Sales Contact Centres at BT, leading BT Group's B2C sales teams across contact centres and digital commerce."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "The drafts only fit Anthony Cass at BT. They name BT Group's Sprinklr AI rollout across EE and BT support and the plans for AI interaction summaries and real-time guidance for service guides. They also refer to his own B2C sales contact centres. Sent to another person at another company, the text would not make sense."
+          }
+        },
+        {
+          "contact": {
+            "name": "Nick Lane",
+            "title": "MD Sales and Service Operations, Consumer (EE, BT, Plusnet)",
+            "company": "BT Group plc",
+            "buying_role": "champion",
+            "seniority": "vp",
+            "relevance": 4,
+            "relevance_reason": "Runs Consumer sales and service operations, which covers the consumer contact centres. I found no recent public quote from him on AI in service.",
+            "why": "As MD Sales and Service Operations for Consumer (EE, BT, Plusnet), Nick Lane runs the service operations where BT plans agentic AI to cut cost to serve.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.bt.com/about/bt/our-company/group-businesses/consumer",
+                "title": "Consumer - Group businesses - Our company (BT)",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://www.bt.com/help/customer-service-performance",
+                "title": "Our results from October to December 2023 (BT) - names Nick Lane, MD of Service",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "medium",
+            "linkedin_status": "not_found",
+            "role_evidence": "MD Sales and Service Operations, Consumer (EE, BT, Plusnet): bt.com (undated)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "BT's Consumer leadership page lists Nick Lane as MD Sales and Service Operations, reporting into Consumer CEO Claire Gillies's team.",
+                "source": {
+                  "url": "https://bt.com/about/bt/our-company/group-businesses/consumer",
+                  "title": "BT Consumer – our company",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "BT's FY26 results report a record Group NPS of 33.4, up 4.1 points, with customer satisfaction up across all brands.",
+                "source": {
+                  "url": "https://data.fca.org.uk/artefacts/NSM/RNS/1f1b8de6-a002-400e-878f-764e82c86d42.html",
+                  "title": "BT Group plc FY26 results (RNS)",
+                  "published": "2026-05-21",
+                  "opened": true
+                }
+              },
+              {
+                "text": "BT says customer journey simplification, with AI initiatives still in development, is reducing cost to serve, while total labour resource fell 7% to 108k.",
+                "source": {
+                  "url": "https://data.fca.org.uk/artefacts/NSM/RNS/1f1b8de6-a002-400e-878f-764e82c86d42.html",
+                  "title": "BT Group plc FY26 results (RNS)",
+                  "published": "2026-05-21",
+                  "opened": true
+                }
+              },
+              {
+                "text": "On 1 October 2026 BT Business launched an AI Receptionist that handles calls 24/7, the first product in its 'AI from BT' portfolio.",
+                "source": {
+                  "url": "https://www.ispreview.co.uk/index.php/2026/10/fancy-an-ai-receptionist-bt-business-will-sell-your-company-one.html",
+                  "title": "Fancy an AI Receptionist? BT Business Will Sell Your Company One",
+                  "published": "2026-10-01",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "BT is cutting labour resource 7% to 108k and leaning on AI to reduce cost to serve, while having to protect a record 33.4 NPS.",
+              "source": {
+                "url": "https://data.fca.org.uk/artefacts/NSM/RNS/1f1b8de6-a002-400e-878f-764e82c86d42.html",
+                "title": "BT Group plc FY26 results (RNS)",
+                "published": "2026-05-21",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Nick, I'm [Your name] from Concentrix. In its FY26 results BT set out plans for agentic AI across the customer service lifecycle. iX Hero gives contact-center agents real-time answers with a human in the loop. A 20-min demo on one of your scenarios?",
+            "email_subject": "Agentic AI in BT customer service",
+            "email_body": "Hi Nick,\n\nI'm [Your name] from Concentrix.\n\nIn its FY26 results, BT set out plans for agentic AI across the customer service lifecycle, working with Accenture and ServiceNow. How do you see that showing up for the agents in Consumer: in the hard queries, in handle time or in quality?\n\nWe built iX Hero, an agentic desktop for contact-center agents with a human in the loop. It gives them real-time answers, summaries, analytics and training. I think it could be useful as those plans take shape.\n\nCould we find 20 minutes next week for a demo on one of your own scenarios? Send me a time that suits you.\n\nBest,\n[Your name]",
+            "hooks": [
+              "In its FY26 results BT reported a record Group NPS of 33.4 (up 4.1 points) and raised its transformation savings target to £3.7BN by March 2030, with plans for AI-powered journey mapping and agentic AI across the customer service lifecycle, working with Accenture and ServiceNow."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "company",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts depend on BT details: BT's FY26 results, its plans for agentic AI across the customer service lifecycle, its work with Accenture and ServiceNow, and the Consumer division Nick Lane works in. You couldn't send them to someone at another company without rewriting them."
+          }
+        }
+      ]
+    },
+    {
+      "input_name": "Lufthansa",
+      "status": "done",
+      "reason": null,
+      "profile": {
+        "input_name": "Lufthansa",
+        "resolved_name": "Lufthansa Group",
+        "domain": "lufthansagroup.com",
+        "fit": "strong",
+        "fit_reason": "Lufthansa Group (Deutsche Lufthansa AG; the passenger airline brand uses lufthansa.com) is a multi-airline travel group whose customer service works in more than 30 languages across several service centres. It handles millions of contacts, with 16M+ AI conversations a year (vendor figure). It also has an active 2026–2028 AI and CX transformation programme ('CST 3.0'), and German customers have posted recent complaints about reaching the hotline.",
+        "fit_sources": [
+          {
+            "url": "https://www.ccw.eu/en/blog/customer-service-transformation-at-the-lufthansa-group-why-isnt-anyone-getting-involved.html",
+            "title": "Customer Service Transformation: AI & CX at Lufthansa (CCW)",
+            "published": "2025-12-30",
+            "opened": true
+          },
+          {
+            "url": "https://www.cognigy.com/en/case-study/lufthansa",
+            "title": "Cognigy case study: Lufthansa",
+            "published": null,
+            "opened": true
+          },
+          {
+            "url": "https://www.yenibiris.com/is-ilani/kundenberater-in/691010",
+            "title": "Lufthansa InTouch job listing (7 Customer Service Centers, ~2,230 consultants, 30+ languages)",
+            "published": null,
+            "opened": false
+          }
+        ],
+        "signals": []
+      },
+      "unconfirmed": [],
+      "role_notes": {},
+      "alternates": {
+        "economic_buyer": [
+          {
+            "name": "Olivier Krueger",
+            "title": "Chief Marketing Officer, Lufthansa Group; also responsible for Guest Experience & Marketing (Customer Experience, Product, Lounges, Catering) since April 2026",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://www.horizont.net/marketing/nachrichten/top-personalie-olivier-krueger-nimmt-neue-rolle-bei-der-lufthansa-ein-235079"
+          }
+        ],
+        "decision_maker": [
+          {
+            "name": "Carsten Wirths",
+            "title": "Project Lead Optimization Servicing Locations",
+            "relevance": 5,
+            "why_not": "less senior (other vs manager)",
+            "source_url": "https://www.ccw.eu/blog/customer-service-transformation-lufthansa-ki.html"
+          },
+          {
+            "name": "Tobias Vögtlin",
+            "title": "Head of Passenger Servicing Operations Hub Airlines & CEO Lufthansa Global Tele Sales GmbH (Lufthansa InTouch)",
+            "relevance": 4,
+            "why_not": "less focused on what we sell (relevance 4 vs 5)",
+            "source_url": "https://europe.customercontactweekdigital.com/events-ccweurope/speakers/tobias-vogtlin"
+          }
+        ],
+        "champion": []
+      },
+      "contacts": [
+        {
+          "contact": {
+            "name": "Dieter Vranckx",
+            "title": "Chief Commercial Officer and Member of the Executive Board, Lufthansa Group",
+            "company": "Lufthansa Group",
+            "buying_role": "economic_buyer",
+            "seniority": "c_level",
+            "relevance": 4,
+            "relevance_reason": "He is the Executive Board member over the customer journey. He is the one quoted in the March 2025 release on the Service Center, Help Center and AI Chat Assistant, but service is only one part of a broad commercial job.",
+            "why": "As Lufthansa Group's Chief Commercial Officer and Executive Board member who also chairs SWISS, Austrian and Brussels Airlines, Dieter Vranckx owns the customer service budget across the group's airlines.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://newsroom.lufthansagroup.com/aufsichtsrat-verlaengert-vorstandsvertraege/",
+                "title": "Aufsichtsrat verlängert Vorstandsverträge (Lufthansa Group newsroom)",
+                "published": "2026-09-17",
+                "opened": true
+              },
+              {
+                "url": "https://newsroom.lufthansagroup.com/en/lufthansa-group-airlines-boost-customer-services-for-summer/",
+                "title": "Lufthansa Group airlines boost customer services for summer",
+                "published": "2025-03-28",
+                "opened": true
+              },
+              {
+                "url": "https://www.routesonline.com/events/conference/99/conference-programme/",
+                "title": "Routes conference programme: keynote interview with Dieter Vranckx, CCO Lufthansa Group",
+                "published": null,
+                "opened": false
+              },
+              {
+                "url": "https://newmobility.news/en/2026/06/29/belgian-dieter-vranckx-takes-on-triple-chairmanship-role-at-lufthansa/",
+                "title": "Belgian Dieter Vranckx takes on triple chairmanship role at Lufthansa",
+                "published": "2026-06-29",
+                "opened": true
+              },
+              {
+                "url": "https://www.lufthansagroup.com/media/images/unternehmen/unternehmensfuehrung/LHG-Biografie-DieterVranckx-DE-02-2026.pdf",
+                "title": "LHG Biografie Dieter Vranckx DE 02 2026",
+                "published": "2026-02",
+                "opened": false
+              },
+              {
+                "url": "https://www.lufthansagroup.com/en/company/company-management/dieter-vranckx.html",
+                "title": "Dieter Vranckx – Lufthansa Group company management (page returned 403 when opened)",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Chief Commercial Officer and Member of the Executive Board, Lufthansa Group (also chairs the boards of SWISS, Austrian Airlines and Brussels Airlines): newsroom.lufthansagroup.com (2026-09-17)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "On 17 September 2026, Lufthansa's Supervisory Board reappointed CCO Dieter Vranckx through 30 June 2032; his remit includes the Customer Journey, Commercial Customer Offering, and Sales and Marketing.",
+                "source": {
+                  "url": "https://newsroom.lufthansagroup.com/en/lufthansa-supervisory-board-extends-executive-board-mandates/",
+                  "title": "Lufthansa Supervisory Board extends Executive Board mandates",
+                  "published": "2026-09-17",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Dieter Vranckx now chairs the boards of Brussels Airlines, Swiss and Austrian Airlines, as network planning, sales and service offerings shift to Frankfurt headquarters.",
+                "source": {
+                  "url": "https://newmobility.news/en/2026/06/29/belgian-dieter-vranckx-takes-on-triple-chairmanship-role-at-lufthansa/",
+                  "title": "Belgian Dieter Vranckx takes on triple chairmanship role at Lufthansa",
+                  "published": "2026-06-29",
+                  "opened": true
+                }
+              },
+              {
+                "text": "In a Lufthansa Group release, Vranckx said: \"We are there for our customers and provide them with an all-round service throughout their flight\", and recommended passengers create Travel ID profiles.",
+                "source": {
+                  "url": "https://newsroom.lufthansagroup.com/en/lufthansa-group-airlines-optimize-the-travel-experience-through-digital-functions/",
+                  "title": "Lufthansa Group Airlines optimize the travel experience through digital functions",
+                  "published": "2025-06-16",
+                  "opened": true
+                }
+              },
+              {
+                "text": "The Lufthansa Group Help Center has an AI chat assistant in five languages, and passengers with urgent requests get priority support in the personal Service Center.",
+                "source": {
+                  "url": "https://newsroom.lufthansagroup.com/en/lufthansa-group-airlines-optimize-the-travel-experience-through-digital-functions/",
+                  "title": "Lufthansa Group Airlines optimize the travel experience through digital functions",
+                  "published": "2025-06-16",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "Lufthansa is moving decisions on sales and service offerings from its subsidiaries to Frankfurt, aiming to cut costs through shared IT systems and joint purchasing, which puts pressure on service costs.",
+              "source": {
+                "url": "https://newmobility.news/en/2026/06/29/belgian-dieter-vranckx-takes-on-triple-chairmanship-role-at-lufthansa/",
+                "title": "Belgian Dieter Vranckx takes on triple chairmanship role at Lufthansa",
+                "published": "2026-06-29",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Dieter, I'm [Your name] from Concentrix. Your Help Center has an AI chat assistant in five languages, and passengers with urgent requests get priority support in the personal Service Center. Our iX Hero gives agents real-time answers. Up for a 20-min demo?",
+            "email_subject": "Lufthansa's Help Center and Service Center",
+            "email_body": "Hi Dieter,\n\nI'm [Your name] from Concentrix. Congratulations on your reappointment as CCO in September, through 30 June 2032.\n\nThe Lufthansa Group Help Center has an AI chat assistant in five languages, and passengers with urgent requests get priority support in the personal Service Center. How do you split requests between the two?\n\niX Hero is an agentic desktop that gives contact-center agents real-time answers, with a human in the loop. I think it could be useful for the Service Center agents who handle those urgent requests.\n\nWould a 20-minute demo on one of your own Service Center scenarios work? Could you suggest a time in the next two weeks?\n\nBest,\n[Your name]",
+            "hooks": [
+              "On 17 September 2026, Lufthansa's Supervisory Board reappointed CCO Dieter Vranckx through 30 June 2032; his remit includes the Customer Journey, Commercial Customer Offering, and Sales and Marketing.",
+              "The Lufthansa Group Help Center has an AI chat assistant in five languages, and passengers with urgent requests get priority support in the personal Service Center."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 2,
+            "fixed": [
+              "unsupported claim: LinkedIn note: 'plus a personal Service Center for urgent requests' is a small stretch. The fact says passengers with urgent requests get priority support in the personal Service Center. It does not say the Service Center exists only for urgent requests. The email's wording ('passengers with urgent requests get priority support in the personal Service Center') is accurate and could be used in the note instead."
+            ],
+            "judge_reason": "Both drafts are written for Dieter Vranckx at Lufthansa. They mention his reappointment as CCO through 30 June 2032 and the Lufthansa Group Help Center's AI chat assistant in five languages. They also describe how urgent requests get priority support in the personal Service Center. The text can't be sent to another person at another company without changes."
+          }
+        },
+        {
+          "contact": {
+            "name": "Nick Allgaier",
+            "title": "Product Manager Digital Assistants, Conversational & Agentic AI",
+            "company": "Lufthansa Group",
+            "buying_role": "decision_maker",
+            "seniority": "manager",
+            "relevance": 5,
+            "relevance_reason": "Runs the Lufthansa, SWISS and Austrian customer-service AI agent program (Elisa and others, built on Cognigy). He has talked about it publicly at CCW Europe 2022 and at HumanX in April 2026.",
+            "why": "As Lufthansa Group's Product Manager for Digital Assistants, Conversational & Agentic AI, Nick Allgaier decides which customer service software and AI the company buys, making him central to iX Suite.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.humanx.co/agenda/agentic-cx-at-40000-feet-from-vision-to-reality-at-scale",
+                "title": "HumanX 2026 – Agentic CX at 40,000 Feet: From Vision to Reality at Scale (NiCE & Lufthansa Group), April 7, 2026",
+                "published": "2026-04",
+                "opened": true
+              },
+              {
+                "url": "https://cognigy.com/en/case-study/lufthansa",
+                "title": "Cognigy case study: Lufthansa (quote from Nick Allgaier, Product Manager Digital Assistants, Lufthansa Group Hub Airlines)",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://europe.customercontactweekdigital.com/customer-experience/videos/lufthansa-groups-journey-conversational-ai",
+                "title": "CCW Europe – Lufthansa Group's Journey in Conversational AI",
+                "published": "2022-10",
+                "opened": false
+              },
+              {
+                "url": "https://www.humanx.co/us/2026/agenda/agentic-cx-at-40000-feet-from-vision-to-reality-at-scale",
+                "title": "HumanX 2026 – Agentic CX at 40,000 Feet: From Vision to Reality at Scale",
+                "published": "2026-04-07",
+                "opened": true
+              },
+              {
+                "url": "https://www.cognigy.com/en/case-study/lufthansa",
+                "title": "Cognigy case study – Lufthansa",
+                "published": null,
+                "opened": false
+              },
+              {
+                "url": "https://shows.acast.com/vux-world/episodes/the-ai-chatbot-serving-10m-customers-a-year-with-nick-allgai",
+                "title": "VUX World – The AI chatbot serving 10m customers a year, with Nick Allgaier, Lufthansa",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Product Manager, Digital Assistants, Conversational & Agentic AI, Lufthansa Group: humanx.co (2026-04-07)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Nick Allgaier, Product Manager Digital Assistants, Conversational & Agentic AI at Lufthansa Group, is listed as a presenter in HumanX 2026 Showcase Talks on April 7, 2026.",
+                "source": {
+                  "url": "https://www.humanx.co/us/2026/agenda/showcase-talks-1",
+                  "title": "Showcase Talks – HumanX 2026",
+                  "published": "2026-04",
+                  "opened": true
+                }
+              },
+              {
+                "text": "At HumanX 2026, Nick Allgaier of Lufthansa Group is listed for \"Scaling AI at an enterprise level - Lessons for navigating complex, high uncertainty environments\" in the NiCE-sponsored Agentic AI Pavilion.",
+                "source": {
+                  "url": "https://www.humanx.co/us/2026/agenda/roundtable-dashboards-to-decisions-building-ai-first-business-intelligence",
+                  "title": "Roundtable – HumanX 2026",
+                  "published": "2026-04",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Lufthansa Group's CST 3.0 plan (2026–2028) aims to scale self-service, use agentic AI for personalised journeys, and automate rebooking, refunds and claims end-to-end.",
+                "source": {
+                  "url": "https://www.ccw.eu/en/blog/customer-service-transformation-at-the-lufthansa-group-why-isnt-anyone-getting-involved.html",
+                  "title": "Customer Service Transformation: AI & CX at Lufthansa – CCW blog",
+                  "published": "2025-12-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "The Elisa chatbot resolves more than half of Lufthansa servicing requests digitally, while about a quarter go to employees, who receive an AI-generated summary.",
+                "source": {
+                  "url": "https://www.ccw.eu/en/blog/customer-service-transformation-at-the-lufthansa-group-why-isnt-anyone-getting-involved.html",
+                  "title": "Customer Service Transformation: AI & CX at Lufthansa – CCW blog",
+                  "published": "2025-12-30",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "Lufthansa is rolling out a standardised group-wide CRM while testing AI co-pilots and planning agentic AI, so any new AI must fit this changing stack.",
+              "source": {
+                "url": "https://www.ccw.eu/en/blog/customer-service-transformation-at-the-lufthansa-group-why-isnt-anyone-getting-involved.html",
+                "title": "Customer Service Transformation: AI & CX at Lufthansa – CCW blog",
+                "published": "2025-12-30",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Nick, I'm [Your name] from Concentrix. HumanX 2026 listed your talk \"Scaling AI at an enterprise level\". iX Hello builds agents inside our Agentic Operating Framework, which targets the issues behind failed enterprise AI deployments. A 20-min demo on your own scenario?",
+            "email_subject": "Agentic AI in Lufthansa servicing",
+            "email_body": "Hi Nick,\n\nI'm [Your name] from Concentrix. HumanX 2026 listed your talk \"Scaling AI at an enterprise level - Lessons for navigating complex, high uncertainty environments\" in the Agentic AI Pavilion.\n\nLufthansa Group's CST 3.0 plan for 2026 to 2028 aims to automate rebooking, refunds and claims end-to-end. When an AI agent handles a refund from start to finish, how do you decide where a person still has to sign off?\n\nSince September 2025, iX Hello has been the agent-building platform inside our Agentic Operating Framework, which targets the issues behind failed enterprise AI deployments. I think it could be useful for the CST 3.0 work.\n\nWould you have 20 minutes in the next two weeks for a demo on one of your own scenarios, such as a rebooking flow?\n\nBest,\n[Your name]",
+            "hooks": [
+              "At HumanX 2026, Nick Allgaier of Lufthansa Group is listed for \"Scaling AI at an enterprise level - Lessons for navigating complex, high uncertainty environments\" in the NiCE-sponsored Agentic AI Pavilion.",
+              "Lufthansa Group's CST 3.0 plan (2026–2028) aims to scale self-service, use agentic AI for personalised journeys, and automate rebooking, refunds and claims end-to-end."
+            ],
+            "seller_facts": [
+              "Since September 2025 iX Hello is the agent-building platform inside Concentrix's Agentic Operating Framework, which targets the issues behind failed enterprise AI deployments."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 2,
+            "fixed": [
+              "unsupported claim: \"In April, HumanX 2026 listed your talk 'Scaling AI at an enterprise level...'\" (both drafts). This goes a little beyond the facts. The only date in the facts is April 7, 2026, and it belongs to his Showcase Talks listing. The fact about the 'Scaling AI at an enterprise level' talk in the NiCE-sponsored Agentic AI Pavilion gives no date. Linking 'April' to that talk merges two separate facts. Safer: 'HumanX 2026 listed your talk...' with no month, or say April only for the Showcase Talks."
+            ],
+            "judge_reason": "Both drafts name Nick's own HumanX 2026 talk title and the Agentic AI Pavilion. The email also cites Lufthansa Group's CST 3.0 plan for 2026–2028 and its goal of automating rebooking, refunds and claims end-to-end. Neither draft could go to another person at another company unchanged."
+          }
+        },
+        {
+          "contact": {
+            "name": "Alexander Karst",
+            "title": "Managing Director, Lufthansa InTouch",
+            "company": "Lufthansa Group (Lufthansa InTouch, the group's own customer service unit)",
+            "buying_role": "champion",
+            "seniority": "c_level",
+            "relevance": 4,
+            "relevance_reason": "Runs Lufthansa InTouch, the group's in-house customer service centres, but I found no public statements from him on AI or service.",
+            "why": "As Managing Director of Lufthansa InTouch, Alexander Karst runs Lufthansa Group's customer support day to day and can push iX Hello and iX Hero adoption internally.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://lh-intouch.com/imprint/",
+                "title": "Imprint – Lufthansa InTouch (lists Managing Director Alexander Karst; ©2026)",
+                "published": "2026",
+                "opened": true
+              },
+              {
+                "url": "https://www.northdata.com/Karst,%20Alexander,%20Frankfurt%20a%C2%B7%20Main/16po",
+                "title": "North Data – Commercial register entry: Managing Director of Lufthansa Global Tele Sales GmbH (announced 2022-01-21)",
+                "published": "2022-01-21",
+                "opened": true
+              },
+              {
+                "url": "https://www.linkedin.com/in/alexander-karst/",
+                "title": "Alexander Karst - Lufthansa InTouch (search result only, not opened)",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Managing Director, Lufthansa InTouch (Lufthansa Global Tele Sales GmbH): lh-intouch.com (2026)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Lufthansa InTouch's imprint names Alexander Karst as Managing Director, with Lufthansa Global Tele Sales GmbH Berlin as corporate headquarters.",
+                "source": {
+                  "url": "https://lh-intouch.com/imprint/",
+                  "title": "Imprint - Lufthansa InTouch",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "Lufthansa InTouch will close its Peterborough, Ontario centre, about 400 employees, by May 31, 2026, citing falling service volume, automation and self-service technology.",
+                "source": {
+                  "url": "https://kawarthanow.com/2025/07/23/lufthansa-intouch-customer-service-centre-in-peterborough-is-closing-in-2026/",
+                  "title": "Lufthansa InTouch customer service centre in Peterborough is closing in 2026",
+                  "published": "2025-07-23",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Lufthansa InTouch's remaining centres are in Germany, Czech Republic, Serbia, South Africa, Namibia, Philippines and Turkey, according to the report.",
+                "source": {
+                  "url": "https://kawarthanow.com/2025/07/23/lufthansa-intouch-customer-service-centre-in-peterborough-is-closing-in-2026/",
+                  "title": "Lufthansa InTouch customer service centre in Peterborough is closing in 2026",
+                  "published": "2025-07-23",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Lufthansa Group's CST 3.0 programme (2026-2028) adds agentic AI and end-to-end automated rebooking, refunds and claims, while about a quarter of enquiries still reach human agents.",
+                "source": {
+                  "url": "https://www.ccw.eu/en/blog/customer-service-transformation-at-the-lufthansa-group-why-isnt-anyone-getting-involved.html",
+                  "title": "Customer Service Transformation: AI & CX at Lufthansa",
+                  "published": "2025-12-30",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "As CST 3.0 moves more contacts to digital channels and sites shrink, InTouch's human agents get the harder handed-over cases and must keep quality high across fewer sites.",
+              "source": {
+                "url": "https://www.ccw.eu/en/blog/customer-service-transformation-at-the-lufthansa-group-why-isnt-anyone-getting-involved.html",
+                "title": "Customer Service Transformation: AI & CX at Lufthansa",
+                "published": "2025-12-30",
+                "opened": true
+              }
+            },
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Alexander, I'm [Your name] from Concentrix. As CST 3.0 rolls out, about a quarter of Lufthansa Group enquiries still reach human agents. Our iX Hero gives contact-center agents real-time answers and summaries. Open to a 20-min demo on one of your scenarios?",
+            "email_subject": "The quarter that reaches agents",
+            "email_body": "Hi Alexander,\n\nI'm [Your name] from Concentrix.\n\nLufthansa Group's CST 3.0 programme (2026-2028) adds agentic AI and end-to-end automated rebooking, refunds and claims. As it rolls out, about a quarter of enquiries still reach human agents. Which of those enquiries are the hardest for agents to handle today?\n\niX Hero is our agentic desktop for contact-center agents. It keeps a human in the loop and gives real-time answers, summaries, analytics and training. I think it could be useful for the enquiries that still need a person.\n\nWould a 20-minute demo on one of your own scenarios make sense? We could also run a pilot on one queue or one market. Do you have time in the next two weeks?\n\nBest,\n[Your name]",
+            "hooks": [
+              "Lufthansa Group's CST 3.0 programme (2026-2028) adds agentic AI and end-to-end automated rebooking, refunds and claims, while about a quarter of enquiries still reach human agents."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "company",
+            "attempts": 3,
+            "fixed": [
+              "unsupported claim: Email: 'As self-service takes more of the simple requests' is stated as a given at the start of the question. The facts only say the closure cited automation and self-service, and that CST 3.0 automates rebooking, refunds and claims. No fact says self-service is taking the 'simple' requests or that the share is growing. A safer basis is the CST 3.0 fact that about a quarter of enquiries still reach human agents.",
+              "unsupported claim: LinkedIn note: 'Under CST 3.0, about a quarter of Lufthansa Group enquiries still reach human agents' goes a little past the fact. The fact says CST 3.0 adds agentic AI and automation 'while' about a quarter of enquiries still reach human agents. That describes the situation today. It doesn't say the quarter is a result of CST 3.0 or happens under it. Safer wording: 'As CST 3.0 rolls out, about a quarter of enquiries still reach human agents.'"
+            ],
+            "judge_reason": "Both drafts are built around Lufthansa Group's CST 3.0 programme (2026-2028) and the share of Lufthansa enquiries that still reach human agents, about a quarter. You couldn't send them to another person at another company without rewriting them."
+          }
+        }
+      ]
+    },
+    {
+      "input_name": "IKEA",
+      "status": "done",
+      "reason": null,
+      "profile": {
+        "input_name": "IKEA",
+        "resolved_name": "IKEA",
+        "domain": "ikea.com",
+        "fit": "strong",
+        "fit_reason": "IKEA is the global home-furnishing retailer. Ingka Group, its largest franchisee, alone operates in 32 markets, and its multilingual contact centers are big enough that about 8,500 call-center staff were reskilled after the Billie AI bot launched. Recent signals include an active AI/CX agenda (Billie now handles about 74% of queries), fast growth in remote contact-center sales, and a EUR 5bn store expansion. One caveat: IKEA runs much of its service in-house with its own AI bot, so the pitch should focus on augmenting that setup, not replacing it.",
+        "fit_sources": [
+          {
+            "url": "https://www.cxtoday.com/contact-center/ikea-retrains-call-center-staff-ai-billie/",
+            "title": "IKEA Retrains Call Center Staff for AI Era - CX Today",
+            "published": "2026-08-03",
+            "opened": true
+          },
+          {
+            "url": "https://employerbranding.news/resources/what-ikeas-ai-reskilling-story-looks-like-now-it-has-made-layoffs-too/",
+            "title": "IKEA's AI Reskilling Case, Reassessed After 2026 Layoffs",
+            "published": "2026-06-12",
+            "opened": true
+          },
+          {
+            "url": "https://www.ingka.com/newsroom/ikea-expands-in-eastern-beijing-with-first-small-store-marks-more-than-20-openings-globally-so-far-this-year/",
+            "title": "IKEA expands in eastern Beijing with first small store, marks more than 20 openings globally so far this year",
+            "published": "2026-04-30",
+            "opened": true
+          }
+        ],
+        "signals": [
+          {
+            "text": "In August 2026, reports said IKEA's AI customer-service bot Billie now handles about 74% of the customers who use it, up from 47%. Over three years, IKEA's remote-sales contact centers grew 15-20% a year, reaching €1.25bn last fiscal year.",
+            "source": {
+              "url": "https://www.cxtoday.com/contact-center/ikea-retrains-call-center-staff-ai-billie/",
+              "title": "IKEA Retrains Call Center Staff for AI Era - CX Today",
+              "published": "2026-08-03",
+              "opened": true
+            }
+          },
+          {
+            "text": "Fortune reported that Billie now handles roughly three-quarters of customer queries and that IKEA's contact centers have become its fastest-growing sales channel.",
+            "source": {
+              "url": "https://fortune.com/2026/08/03/ikea-ai-reskill-workers/",
+              "title": "Ikea's AI bot didn't replace workers. It made them more valuable - Fortune",
+              "published": "2026-08-03",
+              "opened": true
+            }
+          },
+          {
+            "text": "On 30 April 2026, Ingka Group said it had opened 21 new locations worldwide so far that year, as part of a EUR 5 billion, three-year investment across its 32 markets. The openings included sites in the US, China, India, Italy and Spain, plus a new Best Buy partnership in the US.",
+            "source": {
+              "url": "https://www.ingka.com/newsroom/ikea-expands-in-eastern-beijing-with-first-small-store-marks-more-than-20-openings-globally-so-far-this-year/",
+              "title": "IKEA expands in eastern Beijing with first small store, marks more than 20 openings globally so far this year",
+              "published": "2026-04-30",
+              "opened": true
+            }
+          }
+        ]
+      },
+      "unconfirmed": [],
+      "role_notes": {},
+      "alternates": {
+        "economic_buyer": [
+          {
+            "name": "Sigrid Lukasek-Heider",
+            "title": "Managing Director, IKEA Customer Support Center GmbH (IKEA Germany)",
+            "relevance": 4,
+            "why_not": "kept the person picked in an earlier run",
+            "source_url": "https://www.ccw.eu/en/sigrid-lukasek-heider.html"
+          },
+          {
+            "name": "Cristina Rutgers-Astolfi",
+            "title": "Global Head of Analytics, IKEA Customer Support",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://retailtechinnovationhub.com/home/2025/6/29/data-and-machine-learning-specialist-stefan-esping-exits-ikea-after-eight-year-stint-at-retail-giant"
+          }
+        ],
+        "decision_maker": [
+          {
+            "name": "Bryant Noice",
+            "title": "Chief Information Officer and Chief Technology Officer, IKEA Retail (Ingka Group)",
+            "relevance": 3,
+            "why_not": "less focused on what we sell (relevance 3 vs 4)",
+            "source_url": "https://londontechweek.com/speakers/bryant-noice"
+          }
+        ],
+        "champion": [
+          {
+            "name": "Duco Beltman",
+            "title": "Country Customer Care Leader",
+            "relevance": 4,
+            "why_not": "less senior (other vs manager)",
+            "source_url": "https://europe.customercontactweekdigital.com/events-ccweurope/speakers"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "contact": {
+            "name": "Alexandra Rosengren",
+            "title": "Remote Partner Operations Leader",
+            "company": "IKEA (Ingka Group)",
+            "buying_role": "economic_buyer",
+            "seniority": "other",
+            "relevance": 4,
+            "relevance_reason": "According to her LinkedIn search snippet, she runs IKEA's outsourced customer support centres across Europe and the Middle East (30+ countries). I found no public interview or quotes from her, and the snippet is undated, so her current role is not confirmed.",
+            "why": "As Remote Partner Operations Leader, she is likely tied to IKEA's remote-sales contact centers, a €1.25bn channel growing 15-20% yearly, where Billie handles 74% of users.",
+            "linkedin_url": "https://www.linkedin.com/in/alexandra-rosengren/",
+            "sources": [
+              {
+                "url": "https://www.linkedin.com/in/alexandra-rosengren/",
+                "title": "Alexandra Rosengren - Remote Partner Operations Leader - IKEA",
+                "published": null,
+                "opened": false
+              }
+            ],
+            "confidence": "medium",
+            "linkedin_status": "matched",
+            "role_evidence": "Remote Partner Operations Leader: linkedin.com (undated)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Fortune reports that IKEA's Billie AI customer service bot, launched in 2021, now assists 74% of the customers who use it, up from 47% in its first two years.",
+                "source": {
+                  "url": "https://fortune.com/2026/07/30/ikea-ai-workforce-reskilling-jobs-billie-chatbot-global-500/",
+                  "title": "Inside Ikea's big bet on humans in the age of AI",
+                  "published": "2026-07-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "IKEA's 24 remote-sales centres grew 15-20% a year over three years, reaching EUR 1.25 billion in sales last fiscal year, up from EUR 1.08 billion.",
+                "source": {
+                  "url": "https://fortune.com/2026/07/30/ikea-ai-workforce-reskilling-jobs-billie-chatbot-global-500/",
+                  "title": "Inside Ikea's big bet on humans in the age of AI",
+                  "published": "2026-07-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "IKEA will test adding buyback offers to its second-hand marketplace in Spain and Portugal by end of December, after launching the marketplace for IKEA Family members in UK and Ireland.",
+                "source": {
+                  "url": "https://www.retailgazette.co.uk/?p=213832",
+                  "title": "Ikea to trial online furniture buyback service as resale push accelerates",
+                  "published": "2026-10-07",
+                  "opened": true
+                }
+              },
+              {
+                "text": "From 1 January 2026, Ingka's new group management under CEO Juvencio Maeztu includes Commercial Manager Javier Quinones, Development and Transformation Manager Emily Birkin and Digital Manager Parag Parekh.",
+                "source": {
+                  "url": "https://www.ingka.com/?p=164294",
+                  "title": "Ingka Group strengthens retail focus with new organisation",
+                  "published": "2025-12-01",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": {
+              "text": "Remote-sales centres, IKEA's fastest-growing channel, grow 15-20% a year, which raises contact volume. IKEA is relying on Billie to take on routine customer work.",
+              "source": {
+                "url": "https://fortune.com/2026/07/30/ikea-ai-workforce-reskilling-jobs-billie-chatbot-global-500/",
+                "title": "Inside Ikea's big bet on humans in the age of AI",
+                "published": "2026-07-30",
+                "opened": true
+              }
+            },
+            "personalization": "company",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Alexandra, I'm [Your name] from Concentrix. IKEA's 24 remote-sales centres grew 15-20% a year over three years, reaching EUR 1.25bn last fiscal year. Our iX Hero gives contact-center agents real-time answers. Open to a 20-min demo on your own scenario?",
+            "email_subject": "Growth across 24 remote-sales centres",
+            "email_body": "Hi Alexandra,\n\nI'm [Your name] from Concentrix.\n\nIKEA's 24 remote-sales centres grew 15-20% a year over three years, reaching EUR 1.25 billion in sales last fiscal year. In August, reports also said Billie now handles about 74% of the customers who use it, up from 47%.\n\nHow is cost per contact holding up as sales through the centres grow?\n\niX Hero, our agentic desktop for contact-center agents, gives them real-time answers and summaries with a human in the loop. I think it could be useful for agents in centres growing this fast.\n\nWould 20 minutes next week work for a demo on one of your own scenarios?\n\nBest,\n[Your name]",
+            "hooks": [
+              "IKEA's 24 remote-sales centres grew 15-20% a year over three years, reaching EUR 1.25 billion in sales last fiscal year, up from EUR 1.08 billion.",
+              "In August 2026, reports said IKEA's AI customer-service bot Billie now handles about 74% of the customers who use it, up from 47%. Over three years, IKEA's remote-sales contact centers grew 15-20% a year, reaching €1.25bn last fiscal year."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "company",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts are tied to IKEA through its own numbers: the 24 remote-sales centres, 15-20% yearly growth over three years, EUR 1.25bn in sales last fiscal year, and Billie going from 47% to 74%. You couldn't send them to another person at another company without rewriting them."
+          }
+        },
+        {
+          "contact": {
+            "name": "Parag Parekh",
+            "title": "Digital Manager, Group Management (Chief Digital Officer), Ingka Group",
+            "company": "Ingka Group (IKEA)",
+            "buying_role": "decision_maker",
+            "seniority": "c_level",
+            "relevance": 4,
+            "relevance_reason": "He runs all of Ingka's digital and AI work, and that includes customer channels such as Billie. A June 2026 McKinsey interview (seen only in search results) has him naming customer service as the next frontier for generative AI. He does not own the contact centre on its own.",
+            "why": "As Ingka Group's Chief Digital Officer, Parag Parekh decides customer-service software and AI purchases while Billie handles about 74% of its users and €1.25bn contact centers keep growing.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://www.ingka.com/newsroom/ingka-group-strengthens-retail-focus-with-new-organisation/",
+                "title": "Ingka Group strengthens retail focus with new organisation",
+                "published": "2025-12-01",
+                "opened": true
+              },
+              {
+                "url": "https://www.ingka.com/bios/parag-parekh/",
+                "title": "Parag Parekh – Ingka Group bio",
+                "published": null,
+                "opened": true
+              },
+              {
+                "url": "https://fortune.com/2026/07/30/ikea-ai-workforce-reskilling-jobs-billie-chatbot-global-500/",
+                "title": "Fortune: IKEA AI workforce reskilling, Billie chatbot",
+                "published": "2026-07-30",
+                "opened": true
+              },
+              {
+                "url": "https://www.mckinsey.com/industries/retail/our-insights/elevating-the-customer-experience-ikeas-agentic-ai-journey",
+                "title": "Elevating the customer experience: IKEA's agentic AI journey (McKinsey)",
+                "published": "2026-06-11",
+                "opened": false
+              },
+              {
+                "url": "https://www.startbase.de/mediathek/handelsblatt-disrupt/ikeas-chief-digital-officer-wo-indien-u-4a340ff873/",
+                "title": "Handelsblatt Disrupt: Ikeas Chief Digital Officer",
+                "published": "2026-10-02",
+                "opened": false
+              }
+            ],
+            "confidence": "high",
+            "linkedin_status": "not_found",
+            "role_evidence": "Chief Digital Officer, Ingka Group: startbase.de (2026-10-02)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "In a September 2026 interview, Parag Parekh said IKEA ties AI to measurable ROI and sets limits on where AI is used, with privacy, fairness and company values coming first.",
+                "source": {
+                  "url": "https://www.bankinfosecurity.com/how-ikea-turns-ai-strategy-into-business-value-a-32935",
+                  "title": "How IKEA Turns AI Strategy Into Business Value",
+                  "published": "2026-09-25",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Parekh spoke at HumanX Amsterdam on 22-24 September 2026: a BNR 'Return on AI' podcast recording, a talk called 'AI with Purpose: Building Responsibility at Scale', and an open Q&A.",
+                "source": {
+                  "url": "https://www.humanx.co/europe/speakers/parag-parekh",
+                  "title": "HumanX Europe – Parag Parekh",
+                  "published": null,
+                  "opened": true
+                }
+              },
+              {
+                "text": "Fortune quoted Parekh calling IKEA's e-commerce growth 'hockey stick' growth. It also reported that Billie now assists 74% of users and that the 24 remote-sales centres sold EUR 1.25B.",
+                "source": {
+                  "url": "https://fortune.com/2026/07/30/ikea-ai-workforce-reskilling-jobs-billie-chatbot-global-500/",
+                  "title": "Inside Ikea's big bet on humans in the age of AI",
+                  "published": "2026-07-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Ingka's new Group Management, effective 1 January 2026 under CEO Juvencio Maeztu, keeps Parag Parekh as Digital Manager, a role he already held.",
+                "source": {
+                  "url": "https://www.ingka.com/?p=164294",
+                  "title": "Ingka Group new Group Management organisation",
+                  "published": "2025-12-01",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": null,
+            "personalization": "personal",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Parag, I'm [Your name] from Concentrix. In September you said IKEA ties AI to measurable ROI and limits where it's used, with privacy, fairness and company values first. iX Hero is an agent desktop with a human in the loop. A 20-min demo on your own scenario?",
+            "email_subject": "Where IKEA draws AI limits",
+            "email_body": "Hi Parag,\n\nI'm [Your name] from Concentrix.\n\nIn a September interview, you said IKEA ties AI to measurable ROI and sets limits on where it's used, with privacy, fairness and company values coming first.\n\nHow do you decide where those limits sit in customer service?\n\niX Hero is our agentic desktop for contact-center agents, and it keeps a human in the loop. I think it could fit the way you set limits on AI.\n\nCould we find 20 minutes in the next two weeks for a demo on one of your own scenarios?\n\nBest,\n[Your name]",
+            "hooks": [
+              "In a September 2026 interview, Parag Parekh said IKEA ties AI to measurable ROI and sets limits on where AI is used, with privacy, fairness and company values coming first."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "personal",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts open with what Parag Parekh himself said in a September 2026 interview: IKEA ties AI to measurable ROI and limits where AI is used, putting privacy, fairness and company values first. The subject line names IKEA and that stance. You couldn't send this unchanged to someone at another company."
+          }
+        },
+        {
+          "contact": {
+            "name": "Lassi Tuomikoski",
+            "title": "Remote Resolutions Manager (IKEA Remote Customer Meeting Point / contact centre, Finland)",
+            "company": "IKEA (Ingka Group, IKEA Finland)",
+            "buying_role": "champion",
+            "seniority": "manager",
+            "relevance": 4,
+            "relevance_reason": "Runs the resolutions (customer-support) team of IKEA Finland's remote contact centre; no public statements found on AI or automation.",
+            "why": "Lassi runs IKEA Finland's Remote Customer Meeting Point daily, inside IKEA's fastest-growing sales channel, where Billie now handles 74% of users, so he can champion iX Hero for human agents.",
+            "linkedin_url": null,
+            "sources": [
+              {
+                "url": "https://jobs.ikea.com/en/job/espoo/team-leader-for-remote-customer-meeting-point-contact-center/24107/91051962704",
+                "title": "Team Leader For Remote Customer Meeting Point (Contact Center) at IKEA (Espoo)",
+                "published": "2026-01",
+                "opened": false
+              }
+            ],
+            "confidence": "medium",
+            "linkedin_status": "not_found",
+            "role_evidence": "Remote Resolutions Manager (IKEA Remote Customer Meeting Point / contact centre, Finland): jobs.ikea.com (2026-01)"
+          },
+          "context": {
+            "summary": [
+              {
+                "text": "Ikea runs 24 remote-sales centres across Ingka's 31 countries, each with a resolutions team that solves customer problems and a sales team of interior design advisors.",
+                "source": {
+                  "url": "https://fortune.com/2026/07/30/ikea-ai-workforce-reskilling-jobs-billie-chatbot-global-500/",
+                  "title": "Inside Ikea's big bet on humans in the age of AI",
+                  "published": "2026-07-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Remote-sales centres are Ikea's fastest-growing channel, growing 15-20% a year, with EUR 1.25 billion in sales last fiscal year and 10 million customers helped.",
+                "source": {
+                  "url": "https://fortune.com/2026/07/30/ikea-ai-workforce-reskilling-jobs-billie-chatbot-global-500/",
+                  "title": "Inside Ikea's big bet on humans in the age of AI",
+                  "published": "2026-07-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Ikea's AI bot Billie now assists 74% of customers who use it, up from 47%, and the in-house customer happiness score rose to 89% from 60%.",
+                "source": {
+                  "url": "https://fortune.com/2026/07/30/ikea-ai-workforce-reskilling-jobs-billie-chatbot-global-500/",
+                  "title": "Inside Ikea's big bet on humans in the age of AI",
+                  "published": "2026-07-30",
+                  "opened": true
+                }
+              },
+              {
+                "text": "Ikea retrained about 8,500 call-centre employees for complex service or sales roles, and new hires now go through a five- to six-week training programme.",
+                "source": {
+                  "url": "https://fortune.com/2026/07/30/ikea-ai-workforce-reskilling-jobs-billie-chatbot-global-500/",
+                  "title": "Inside Ikea's big bet on humans in the age of AI",
+                  "published": "2026-07-30",
+                  "opened": true
+                }
+              }
+            ],
+            "pain": null,
+            "personalization": "company",
+            "shared_connections": "not available without LinkedIn login"
+          },
+          "drafts": {
+            "linkedin_note": "Hi Lassi, I'm [Your name] from Concentrix. IKEA retrained about 8,500 call-centre employees for complex service or sales roles. Our iX Hero gives contact-center agents real-time answers. Open to a 20-minute demo on one of your scenarios?",
+            "email_subject": "Training for complex service roles",
+            "email_body": "Hi Lassi,\n\nI'm [Your name] from Concentrix.\n\nIKEA retrained about 8,500 call-centre employees for complex service or sales roles. New hires now go through a five- to six-week training programme.\n\nOn the resolutions side, which customer problems take your agents the longest to solve today?\n\nWe built iX Hero, an agentic desktop for contact-center agents with a human in the loop, giving them real-time answers. I think it could be useful for agents moving into those complex service roles.\n\nWould a 20-minute demo on one of your own scenarios be worth it? If it goes well, we could talk about a pilot on one queue. Does a slot next week work for you?\n\nBest,\n[Your name]",
+            "hooks": [
+              "Ikea retrained about 8,500 call-centre employees for complex service or sales roles, and new hires now go through a five- to six-week training programme."
+            ],
+            "seller_facts": [
+              "iX Hero is an agentic desktop for contact-center agents with a human in the loop, giving real-time answers, summaries, analytics and training."
+            ]
+          },
+          "check": {
+            "mode": "personal",
+            "basis": "company",
+            "attempts": 1,
+            "fixed": [],
+            "judge_reason": "Both drafts are written around facts that only apply to IKEA: about 8,500 call-centre employees retrained for complex service or sales roles, the five- to six-week training for new hires, and the resolutions teams in its remote-sales centres. They could not go to another person at another company without being rewritten."
+          }
+        }
+      ]
+    }
+  ]
+}
