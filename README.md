@@ -2,12 +2,17 @@
 
 Give it a list of companies. For each one it finds up to three people from the buying group (economic buyer, decision-maker, champion), checks they still hold the role, collects public context on each, and drafts a LinkedIn connection note (up to 300 characters) and a cold email (up to 150 words). Every person and every fact carries a public source. The agent prepares; a sales rep reviews and sends. The demo seller is Concentrix iX Suite.
 
-## Start here
+## Deliverables
 
-- **Sample output:** [5 companies, 15 contacts with notes and emails](sample_output/demo/report.md)
-- **Write-up, Q1–Q5:** [docs/writeup_Q1-Q5.md](docs/writeup_Q1-Q5.md)
-- **Hard inputs:** [ambiguous name, typo, small company, non-English company, competitor](sample_output/edge_cases/report.md), summary [below](#behavior-at-the-edges)
-- **Manual check:** [all 15 demo contacts confirmed by hand on LinkedIn](docs/manual_contact_verification.md): they exist and hold the stated role now
+| What the brief asks for | Where it is |
+|---|---|
+| **Working agent:** code, config, README | [`src/prospect/`](src/prospect/), [`seller.yaml`](seller.yaml), [Setup](#setup) and [Run](#run) below |
+| **Sample output** for 3–5 companies | [`sample_output/demo/report.md`](sample_output/demo/report.md): 5 companies, 15 contacts ([`results.json`](sample_output/demo/results.json) holds the same data structured) |
+| **Write-up** (1–2 pages), Q1–Q5 | [`docs/writeup_Q1-Q5.md`](docs/writeup_Q1-Q5.md) |
+
+Each contact in the sample output has the fields the brief lists: name, title and a relevance note; a context summary (2–4 sentences, each with its source); a LinkedIn note (300 characters max); a cold email (subject line and a body under 150 words).
+
+Beyond the brief: [hard inputs](sample_output/edge_cases/report.md) (ambiguous name, typo, small company, non-English company, competitor; summary [below](#behavior-at-the-edges)) and a [manual check](docs/manual_contact_verification.md) of all 15 demo contacts on LinkedIn: they exist and hold the stated role now.
 
 **Cost.** With a Claude subscription you pay only for the subscription: runs draw on its usage limits. The demo and all development, about 20 company runs, ran on one Claude Max 20x plan. With an `ANTHROPIC_API_KEY` usage is billed per token: one company from scratch takes about 10 minutes and about 1.6M tokens, about $2.40 at API list price.
 
@@ -16,12 +21,16 @@ Give it a list of companies. For each one it finds up to three people from the b
 Needs Python 3.12+ and [uv](https://docs.astral.sh/uv/).
 
 ```
+git clone https://github.com/anastasiyashumskikh/b2b-prospecting-agent.git
+cd b2b-prospecting-agent
 uv sync
 ```
 
 The agent runs on Claude Code. Install it ([setup guide](https://docs.claude.com/en/docs/claude-code/setup)) and either log in once with a Claude account (the run uses that subscription) or set `ANTHROPIC_API_KEY` (calls are billed to that key). Before a run the agent checks that Claude Code answers and says what is missing if it does not.
 
 ## Run
+
+Examples, run one at a time from the repository folder:
 
 ```
 uv run prospect "Vodafone" "Lufthansa"
